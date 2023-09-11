@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Viaoda+Libre&display=swap");
+
+:root {
+  --z-backgroundImage: "-10";
+  --font-lato: "Lato", sans-serif;
+  --font-playfair: "Viaoda Libre", cursive;
+  --z-backdrop: 100;
+  --color-green: #0ebe98;
+  --color-blue: #0d75bf;
+  --color-dark-blue: #0d2b3e;
+  --color-light-blue: #add8e6;
+}
+* {
+  box-sizing: border-box;
+  text-shadow: none;
+  margin: 0;
+  padding: 0;
+  // outline: solid red;
+}
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  position: relative;
+}
+body {
+  color: white;
+  min-height: 100vh;
+  font-family: var(--font-lato);
+}
+a {
+  text-decoration: none;
+  color: white;
+  position: relative;
+  &::before {
+    content: "";
+    height: 2px;
+    width: 100%;
+    background-color: white;
+    position: absolute;
+    bottom: -5px;
+    transform: scaleX(0);
+    transition: transform 100ms ease-in-out;
+  }
+  &:hover::before {
+    transform: scaleX(1);
+  }
+}
+input,
+button {
+  background: none;
+  border: none;
+}
+body {
+  position: relative;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  margin-inline: auto;
+  font-family: var(--font-lato);
+  padding: 1rem;
+  @media screen and (min-width: 640px) {
+    max-width: 640px;
+  }
+  @media screen and (min-width: 768px) {
+    max-width: 768px;
+  }
+  @media screen and (min-width: 1024px) {
+    max-width: 1024px;
+  }
+  @media screen and (min-width: 1280px) {
+    max-width: 1280px;
+  }
+  @media screen and (min-width: 1536px) {
+    max-width: 1536px;
+  }
+}
+// scroll bar
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  @media screen and (max-width: 500px) {
+    width: 5px;
+  }
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  display: none;
+  background: #f1f1f1;
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(7.3px);
+  -webkit-backdrop-filter: blur(7.3px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 0.2rem;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #0004;
+  border-radius: 0.2rem;
+  &:hover {
+    background-color: #ddda;
+  }
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.cta {
+  padding: 0.6rem 1rem;
+  font-weight: 600;
+  border-radius: 10rem;
+  background-color: var(--color-green);
+  color: white;
+  &::before {
+    width: 0;
+  }
+  &:hover {
+    background-color: white;
+    color: var(--color-green);
+  }
+}
+.logo {
+  a {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    letter-spacing: 0.5px;
+    img {
+      filter: drop-shadow(0 0 0.01rem white);
+      @media screen and (max-width: 500px) {
+        height: 2rem;
+        width: 2rem;
+      }
+    }
+    &::before {
+      width: 0;
+    }
+  }
+  strong {
+    font-size: 1.8rem;
+    font-weight: 600;
+    font-family: var(--font-playfair);
+    color: white;
+    text-transform: capitalize;
+    @media screen and (max-width: 500px) {
+      color: var(--color-blue);
+      font-size: 1.4rem;
+      text-shadow: none;
+    }
+  }
+}

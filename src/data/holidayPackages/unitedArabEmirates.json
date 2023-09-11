@@ -1,0 +1,3105 @@
+{
+    "rows": [
+        {
+            "PkgSysId": "44",
+            "Countries": "United Arab Emirates",
+            "CountryIds": "228",
+            "TPId": "37247",
+            "GTXPkgId": "37247",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Dubai,Middle East,United Arab Emirates",
+            "DestinationsId": "8219",
+            "des": "Dubai | Dubai (4N) | Dubai",
+            "desSaArr": {
+                "Dubai": 4
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 8219,
+                    "title": "Dubai",
+                    "nights": "4N",
+                    "CountryIds": "228"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":8219,\"title\":\"Dubai\",\"nights\":\"4N\",\"CountryIds\":\"228\"}]",
+            "PriceRange": "15001-20000",
+            "Duration": "4",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Beach",
+                "Family",
+                "Weekend"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Deluxe"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "La Quinta by Wyndham Dubai (4Nights)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/la_quinta_by_wyndham_dubai_4nights_1656939165.jpeg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/la_quinta_by_wyndham_dubai_4nights_1656939165.jpeg",
+            "defaultCategoryId": 3,
+            "itineraryArr1": {
+                "Deluxe": [
+                    {
+                        "hid": 512144,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "La Quinta by Wyndham Dubai",
+                        "star": 4,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 0,
+                        "nights": 4
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Deluxe": "{\"haid\":[null],\"HotelCityId\":[8219],\"night\":[5],\"MEALPLANTYPE\":[null],\"ROOMTYPE\":[null]}"
+            },
+            "Price": 15411,
+            "PriceDis": 15411.57,
+            "defaultStandard": "Deluxe",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Deluxe": {
+                        "TPId": "37247",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-07-04",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 15071,
+                                "priceDoubleOcc": "15070.94",
+                                "priceSingleOcc": 45212.83,
+                                "priceExtraBed": "15070.94",
+                                "priceWithoutBed": "15070.94",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 15070.94,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 189,
+                                "CEB": 189,
+                                "COSTDO": 189,
+                                "COSTSO": 567,
+                                "ACEB": 189,
+                                "COSTTO": 189
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 8219,
+            "DestinationPlacesSysId": 8219,
+            "SourcePlaces": "Dubai",
+            "DestinationPlaces": "Dubai",
+            "Inclusion": "<ul>\r\n\t<li>4 night Stay with Breakfast</li>\r\n\t<li>Return Airport transfers</li>\r\n\t<li>Half Day Guided Dubai City tour</li>\r\n\t<li>Desert Safari with BBQ Dinner</li>\r\n\t<li>Dhow Dinner Cruise - Creek</li>\r\n\t<li>Dubai Frame with transfers</li>\r\n\t<li>Alll transfers on Sharing basis</li>\r\n\t<li>VAT</li>\r\n</ul>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>Flight Tickets OR Visa is not included in above cost</li>\r\n\t<li>Tourism Dhiram Fees or Ok to Board</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n</ul>\r\n\r\n<p> </p>\r\n",
+            "finalSightseeingArray": {
+                "1": "-",
+                "2": "Dhow Dinner Cruise - Creek, Half day guided Dubai City Tour",
+                "3": "-",
+                "4": "-",
+                "5": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjQ0IiwiR1RYUGtnSWQiOiIzNzI0NyIsIlRQSWQiOiIzNzI0NyIsInBhY2thZ2UiOnsiTmFtZSI6IkxhIFF1aW50YSBieSBXeW5kaGFtIER1YmFpICg0TmlnaHRzKSIsIlRhZ2xpbmUxIjoiIn0sIlBhY2thZ2VUeXBlIjoiMSIsImRlZmF1bHRDYXRlZ29yeUlkIjozLCJkZWZhdWx0VG91clR5cGUiOjEsIm1wIjowLCJDb3VudHJpZXMiOiJVbml0ZWQgQXJhYiBFbWlyYXRlcyIsIkNvdW50cnlJZHMiOiIyMjgiLCJJc0ZpeGVkRGVwYXJ0dXJlUGFja2FnZSI6MCwiQ2F0ZWdvcnlEYXRlQXJyYXkiOltdLCJteUN1c3RvbWl6ZURlc3ROaWdodHMiOlt7ImNpdHlJZCI6ODIxOSwidGl0bGUiOiJEdWJhaSIsIm5pZ2h0cyI6IjROIiwiQ291bnRyeUlkcyI6IjIyOCJ9XSwiRHVyYXRpb24iOiI0IiwiQ3VycmVuY3lUeXBlIjoiSU5SIn0=",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "37",
+            "Countries": "United Arab Emirates",
+            "CountryIds": "228",
+            "TPId": "37172",
+            "GTXPkgId": "37172",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Dubai,Middle East,United Arab Emirates",
+            "DestinationsId": "8219",
+            "des": "Dubai | Dubai (5N) | Dubai",
+            "desSaArr": {
+                "Dubai": 5
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 8219,
+                    "title": "Dubai",
+                    "nights": "5N",
+                    "CountryIds": "228"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":8219,\"title\":\"Dubai\",\"nights\":\"5N\",\"CountryIds\":\"228\"}]",
+            "PriceRange": "15001-20000",
+            "Duration": "5",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Family",
+                "Weekend"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Deluxe"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Grand Excelsior Hotel Bur Dubai (5N Dubai)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/grexcelsior_hotel_bur_dubai_5n_dubai_1656668895.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/grexcelsior_hotel_bur_dubai_5n_dubai_1656668895.jpg",
+            "defaultCategoryId": 3,
+            "itineraryArr1": {
+                "Deluxe": [
+                    {
+                        "hid": 512558,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Grand Excelsior Hotel Bur Dubai - Dubai",
+                        "star": 4,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 0,
+                        "nights": 5
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Deluxe": "{\"haid\":[null],\"HotelCityId\":[8219],\"night\":[6],\"MEALPLANTYPE\":[null],\"ROOMTYPE\":[null]}"
+            },
+            "Price": 15839,
+            "PriceDis": 15839.63,
+            "defaultStandard": "Deluxe",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Deluxe": {
+                        "TPId": "37172",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 15492,
+                                "priceDoubleOcc": "15491.99",
+                                "priceSingleOcc": 46475.99,
+                                "priceExtraBed": "15491.99",
+                                "priceWithoutBed": "13984.67",
+                                "Tax": "Excluded",
+                                "PAX": 12,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 15491.99,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 175.35,
+                                "CEB": 194.25,
+                                "COSTDO": 194.25,
+                                "COSTSO": 582.75,
+                                "ACEB": 194.25,
+                                "COSTTO": 194.25
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 15492,
+                                "priceDoubleOcc": "15491.99",
+                                "priceSingleOcc": 46475.99,
+                                "priceExtraBed": "15491.99",
+                                "priceWithoutBed": "13984.67",
+                                "Tax": "Excluded",
+                                "PAX": 10,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 15491.99,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 175.35,
+                                "CEB": 194.25,
+                                "COSTDO": 194.25,
+                                "COSTSO": 582.75,
+                                "ACEB": 194.25,
+                                "COSTTO": 194.25
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 15492,
+                                "priceDoubleOcc": "15491.99",
+                                "priceSingleOcc": 46475.99,
+                                "priceExtraBed": "15491.99",
+                                "priceWithoutBed": "13984.67",
+                                "Tax": "Excluded",
+                                "PAX": 8,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 15491.99,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 175.35,
+                                "CEB": 194.25,
+                                "COSTDO": 194.25,
+                                "COSTSO": 582.75,
+                                "ACEB": 194.25,
+                                "COSTTO": 194.25
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 15492,
+                                "priceDoubleOcc": "15491.99",
+                                "priceSingleOcc": 46475.99,
+                                "priceExtraBed": "15491.99",
+                                "priceWithoutBed": "13984.67",
+                                "Tax": "Excluded",
+                                "PAX": 6,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 15491.99,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 175.35,
+                                "CEB": 194.25,
+                                "COSTDO": 194.25,
+                                "COSTSO": 582.75,
+                                "ACEB": 194.25,
+                                "COSTTO": 194.25
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 15492,
+                                "priceDoubleOcc": "15491.99",
+                                "priceSingleOcc": 46475.99,
+                                "priceExtraBed": "15491.99",
+                                "priceWithoutBed": "13984.67",
+                                "Tax": "Excluded",
+                                "PAX": 4,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 15491.99,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 175.35,
+                                "CEB": 194.25,
+                                "COSTDO": 194.25,
+                                "COSTSO": 582.75,
+                                "ACEB": 194.25,
+                                "COSTTO": 194.25
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 15492,
+                                "priceDoubleOcc": "15491.99",
+                                "priceSingleOcc": 46475.99,
+                                "priceExtraBed": "15491.99",
+                                "priceWithoutBed": "13984.67",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 15491.99,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 175.35,
+                                "CEB": 194.25,
+                                "COSTDO": 194.25,
+                                "COSTSO": 582.75,
+                                "ACEB": 194.25,
+                                "COSTTO": 194.25
+                            }
+                        ],
+                        "GroupSize": 12
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 12,
+            "SourcePlaceSysId": 8219,
+            "DestinationPlacesSysId": 8219,
+            "SourcePlaces": "Dubai",
+            "DestinationPlaces": "Dubai",
+            "Inclusion": "<ul>\r\n\t<li>05 Nights stay with breakfast</li>\r\n\t<li>Return Airport Transfers (PVT Basis)</li>\r\n\t<li>Half day guided Dubai City Tour</li>\r\n\t<li>Desert Safari with BBQ Dinner</li>\r\n\t<li>Dhow Dinner Cruise - Creek</li>\r\n\t<li>All transfers on sharing basis</li>\r\n\t<li>VAT</li>\r\n</ul>\r\n\r\n<p> </p>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>Flight Tickets OR Visa is not included in above cost</li>\r\n\t<li>Tourism Dhiram Fees or Ok to Board</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "-",
+                "2": "Dhow Dinner Cruise - Creek, Half day guided Dubai City Tour",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjM3IiwiR1RYUGtnSWQiOiIzNzE3MiIsIlRQSWQiOiIzNzE3MiIsInBhY2thZ2UiOnsiTmFtZSI6IkdyYW5kIEV4Y2Vsc2lvciBIb3RlbCBCdXIgRHViYWkgKDVOIER1YmFpKSIsIlRhZ2xpbmUxIjoiIn0sIlBhY2thZ2VUeXBlIjoiMSIsImRlZmF1bHRDYXRlZ29yeUlkIjozLCJkZWZhdWx0VG91clR5cGUiOjEsIm1wIjowLCJDb3VudHJpZXMiOiJVbml0ZWQgQXJhYiBFbWlyYXRlcyIsIkNvdW50cnlJZHMiOiIyMjgiLCJJc0ZpeGVkRGVwYXJ0dXJlUGFja2FnZSI6MCwiQ2F0ZWdvcnlEYXRlQXJyYXkiOltdLCJteUN1c3RvbWl6ZURlc3ROaWdodHMiOlt7ImNpdHlJZCI6ODIxOSwidGl0bGUiOiJEdWJhaSIsIm5pZ2h0cyI6IjVOIiwiQ291bnRyeUlkcyI6IjIyOCJ9XSwiRHVyYXRpb24iOiI1IiwiQ3VycmVuY3lUeXBlIjoiSU5SIn0=",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "106",
+            "Countries": "United Arab Emirates",
+            "CountryIds": "228",
+            "TPId": "40813",
+            "GTXPkgId": "40813",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Dubai,Middle East,United Arab Emirates",
+            "DestinationsId": "8219",
+            "des": "Dubai | Dubai (3N) | Dubai",
+            "desSaArr": {
+                "Dubai": 3
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 8219,
+                    "title": "Dubai",
+                    "nights": "3N",
+                    "CountryIds": "228"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":8219,\"title\":\"Dubai\",\"nights\":\"3N\",\"CountryIds\":\"228\"}]",
+            "PriceRange": "15001-20000",
+            "Duration": "3",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Family",
+                "Romantic",
+                "Leisure"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Standard"
+                },
+                {
+                    "type": "Deluxe"
+                },
+                {
+                    "type": "Luxury"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Dubai Delight (3N Dubai)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/dubai_delight_1661584338.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/dubai_delight_1661584338.jpg",
+            "defaultCategoryId": 2,
+            "itineraryArr1": {
+                "Standard": [
+                    {
+                        "hid": 518566,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Citymax Bur Dubai",
+                        "star": 3,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 3
+                    }
+                ],
+                "Deluxe": [
+                    {
+                        "hid": 518567,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Orchid Vue Hotel",
+                        "star": 4,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 3
+                    }
+                ],
+                "Luxury": [
+                    {
+                        "hid": 518568,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Hyatt Regency Deira",
+                        "star": 5,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 3
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Luxury": "{\"haid\":[null,null,null],\"HotelCityId\":[8219,8219,8219],\"night\":[3,3,3],\"MEALPLANTYPE\":[null,null,null],\"ROOMTYPE\":[null,null,null]}"
+            },
+            "Price": 18836,
+            "PriceDis": 18836.44,
+            "defaultStandard": "Standard",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Standard": {
+                        "TPId": "40813",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-12-19",
+                                "To": "2022-12-19",
+                                "Currency": 1,
+                                "priceTripleOcc": 16708,
+                                "priceDoubleOcc": "18689.75",
+                                "priceSingleOcc": 31432.760000000002,
+                                "priceExtraBed": "12743.01",
+                                "priceWithoutBed": "7221.04",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 18689.75,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 89.25,
+                                "CEB": 157.5,
+                                "COSTDO": 231,
+                                "COSTSO": 388.5,
+                                "ACEB": 157.5,
+                                "COSTTO": 157.5
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Deluxe": {
+                        "TPId": "40814",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-12-19",
+                                "To": "2022-12-19",
+                                "Currency": 1,
+                                "priceTripleOcc": 22088,
+                                "priceDoubleOcc": "22087.88",
+                                "priceSingleOcc": 38653.79,
+                                "priceExtraBed": "22087.88",
+                                "priceWithoutBed": "7645.81",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 22087.88,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 94.5,
+                                "CEB": 273,
+                                "COSTDO": 273,
+                                "COSTSO": 477.75,
+                                "ACEB": 273,
+                                "COSTTO": 273
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Luxury": {
+                        "TPId": "40815",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-12-19",
+                                "To": "2022-12-19",
+                                "Currency": 1,
+                                "priceTripleOcc": 23221,
+                                "priceDoubleOcc": "26335.55",
+                                "priceSingleOcc": 47573.899999999994,
+                                "priceExtraBed": "16990.68",
+                                "priceWithoutBed": "8070.57",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 26335.55,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 99.75,
+                                "CEB": 210,
+                                "COSTDO": 325.5,
+                                "COSTSO": 588,
+                                "ACEB": 210,
+                                "COSTTO": 210
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [
+                {
+                    "FromDateVal": "2022-12-19",
+                    "FromDate": "19/12/2022"
+                }
+            ],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 8219,
+            "DestinationPlacesSysId": 8219,
+            "SourcePlaces": "Dubai",
+            "DestinationPlaces": "Dubai",
+            "Inclusion": "<ul>\r\n\t<li>03 Night accomodation in mentioned hotel or Simiar</li>\r\n\t<li>03 Breakfast</li>\r\n\t<li>Return Dubai Aiport transfer on PVT basis</li>\r\n\t<li>Dhow Cruise Dinner - Creek on SIC transfer</li>\r\n\t<li>Dubai City Tour on SIC transfer</li>\r\n\t<li>Desert Safari tour on SIC transfer</li>\r\n\t<li>VAT</li>\r\n</ul>\r\n",
+            "Exclusions": "<ul>\r\n\t<li> Flight Tickets OR Visa is not included in above cost</li>\r\n\t<li>Tourism Dhiram Fees or Ok to Board</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included </li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li> Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n</ul>\r\n\r\n<p><strong>TCS Not Included </strong>: - </p>\r\n\r\n<ul>\r\n\t<li>In case client wishes to prepone /postpone his or her travel dates, we request you to kindly reach us 15 days prior to journey date via e-mail/SMS.</li>\r\n\t<li>The customers can prepone /postpone their tour once without any additional charges (if intimated before 15 days of travel date in written). However postponing & preponing second time will attract additional charges.</li>\r\n\t<li>Also note that few service providers (Hoteliers, Transporter etc.) may apply postpone/prepone charges even after meeting above requirement. In such cases postpone/prepone charges will deducted from the advance amount deposited.</li>\r\n\t<li>In all prepone or postpone scenarios, the services and the costing will be subject to availability of Hotel/Volvo and season/off season time.</li>\r\n\t<li> We do not accept any changes in plan within 15 days of travel date. However in rare cases like adverse climatic conditions or strikes, package can be postponed which will be intimated to you beforehand.</li>\r\n\t<li> The validity to utilize your Advance payment in prepone/postpone scenarios is 1 Year from the date of advance payment.</li>\r\n\t<li>The avance payment and the invoice Number allotted to you, are transferable i.e. you can pass on your booking to any of your friends/ relatives. (Please Note: In order to transfer your booking you must meet the above terms and conditions first).</li>\r\n</ul>\r\n\r\n<p> </p>\r\n",
+            "finalSightseeingArray": {
+                "1": "Dhow Cruise",
+                "2": "Half Day City tour",
+                "3": "Desert Safari Dubai",
+                "4": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjEwNiIsIkdUWFBrZ0lkIjoiNDA4MTMiLCJUUElkIjoiNDA4MTMiLCJwYWNrYWdlIjp7Ik5hbWUiOiJEdWJhaSBEZWxpZ2h0ICgzTiBEdWJhaSkiLCJUYWdsaW5lMSI6IiJ9LCJQYWNrYWdlVHlwZSI6IjEiLCJkZWZhdWx0Q2F0ZWdvcnlJZCI6MiwiZGVmYXVsdFRvdXJUeXBlIjoxLCJtcCI6MCwiQ291bnRyaWVzIjoiVW5pdGVkIEFyYWIgRW1pcmF0ZXMiLCJDb3VudHJ5SWRzIjoiMjI4IiwiSXNGaXhlZERlcGFydHVyZVBhY2thZ2UiOjAsIkNhdGVnb3J5RGF0ZUFycmF5IjpbeyJGcm9tRGF0ZVZhbCI6IjIwMjItMTItMTkiLCJGcm9tRGF0ZSI6IjE5XC8xMlwvMjAyMiJ9XSwibXlDdXN0b21pemVEZXN0TmlnaHRzIjpbeyJjaXR5SWQiOjgyMTksInRpdGxlIjoiRHViYWkiLCJuaWdodHMiOiIzTiIsIkNvdW50cnlJZHMiOiIyMjgifV0sIkR1cmF0aW9uIjoiMyIsIkN1cnJlbmN5VHlwZSI6IklOUiJ9",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "107",
+            "Countries": "United Arab Emirates",
+            "CountryIds": "228",
+            "TPId": "40836",
+            "GTXPkgId": "40836",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Dubai,Middle East,United Arab Emirates",
+            "DestinationsId": "8219",
+            "des": "Dubai | Dubai (4N) | Dubai",
+            "desSaArr": {
+                "Dubai": 4
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 8219,
+                    "title": "Dubai",
+                    "nights": "4N",
+                    "CountryIds": "228"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":8219,\"title\":\"Dubai\",\"nights\":\"4N\",\"CountryIds\":\"228\"}]",
+            "PriceRange": "20001-25000",
+            "Duration": "4",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Family",
+                "Romantic",
+                "Leisure"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Standard"
+                },
+                {
+                    "type": "Deluxe"
+                },
+                {
+                    "type": "Luxury"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Amazing Dubai (4N Dubai)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/golden_dubai_1661592384.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/golden_dubai_1661592384.jpg",
+            "defaultCategoryId": 2,
+            "itineraryArr1": {
+                "Standard": [
+                    {
+                        "hid": 518566,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Citymax Bur Dubai",
+                        "star": 3,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 4
+                    }
+                ],
+                "Deluxe": [
+                    {
+                        "hid": 518567,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Orchid Vue Hotel",
+                        "star": 4,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 4
+                    }
+                ],
+                "Luxury": [
+                    {
+                        "hid": 518568,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Hyatt Regency Deira",
+                        "star": 5,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 4
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Luxury": "{\"haid\":[null,null,null],\"HotelCityId\":[8219,8219,8219],\"night\":[4,4,4],\"MEALPLANTYPE\":[null,null,null],\"ROOMTYPE\":[null,null,null]}"
+            },
+            "Price": 21918,
+            "PriceDis": 21918.68,
+            "defaultStandard": "Standard",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Standard": {
+                        "TPId": "40836",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-10-01",
+                                "To": "2022-12-19",
+                                "Currency": 1,
+                                "priceTripleOcc": 18322,
+                                "priceDoubleOcc": "21748.06",
+                                "priceSingleOcc": 38738.740000000005,
+                                "priceExtraBed": "11468.71",
+                                "priceWithoutBed": "9769.64",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 21748.06,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 120.75,
+                                "CEB": 141.75,
+                                "COSTDO": 268.8,
+                                "COSTSO": 478.8,
+                                "ACEB": 141.75,
+                                "COSTTO": 141.75
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Deluxe": {
+                        "TPId": "40837",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-10-01",
+                                "To": "2022-12-19",
+                                "Currency": 1,
+                                "priceTripleOcc": 27185,
+                                "priceDoubleOcc": "27185.09",
+                                "priceSingleOcc": 47998.67,
+                                "priceExtraBed": "27185.09",
+                                "priceWithoutBed": "8070.57",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 27185.09,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 99.75,
+                                "CEB": 336,
+                                "COSTDO": 336,
+                                "COSTSO": 593.25,
+                                "ACEB": 336,
+                                "COSTTO": 336
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Luxury": {
+                        "TPId": "40838",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-10-01",
+                                "To": "2022-12-19",
+                                "Currency": 1,
+                                "priceTripleOcc": 28714,
+                                "priceDoubleOcc": "32452.19",
+                                "priceSingleOcc": 49442.869999999995,
+                                "priceExtraBed": "21238.35",
+                                "priceWithoutBed": "8495.34",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 32452.19,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 105,
+                                "CEB": 262.5,
+                                "COSTDO": 401.1,
+                                "COSTSO": 611.1,
+                                "ACEB": 262.5,
+                                "COSTTO": 262.5
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [
+                {
+                    "FromDateVal": "2022-10-01",
+                    "FromDate": "01/10/2022"
+                }
+            ],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 8219,
+            "DestinationPlacesSysId": 8219,
+            "SourcePlaces": "Dubai",
+            "DestinationPlaces": "Dubai",
+            "Inclusion": "<ul>\r\n\t<li>04 Night accomodation in mentioned hotel or Simiar</li>\r\n\t<li>04 Breakfast</li>\r\n\t<li>Return Dubai Aiport transfer on PVT basis</li>\r\n\t<li>Dhow Cruise Dinner - Creek on SIC transfer</li>\r\n\t<li>Dubai City Tour on SIC transfer</li>\r\n\t<li>Desert Safari tour on SIC transfer</li>\r\n\t<li>VAT</li>\r\n</ul>\r\n",
+            "Exclusions": "<ul>\r\n\t<li> Flight Tickets OR Visa is not included in above cost</li>\r\n\t<li>Tourism Dhiram Fees or Ok to Board</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included </li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li> Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n</ul>\r\n\r\n<p>TCS Not Included : - </p>\r\n\r\n<ul>\r\n\t<li>In case client wishes to prepone /postpone his or her travel dates, we request you to kindly reach us 15 days prior to journey date via e-mail/SMS.</li>\r\n\t<li>The customers can prepone /postpone their tour once without any additional charges (if intimated before 15 days of travel date in written). However postponing & preponing second time will attract additional charges.</li>\r\n\t<li>Also note that few service providers (Hoteliers, Transporter etc.) may apply postpone/prepone charges even after meeting above requirement. In such cases postpone/prepone charges will deducted from the advance amount deposited.</li>\r\n\t<li>In all prepone or postpone scenarios, the services and the costing will be subject to availability of Hotel/Volvo and season/off season time.</li>\r\n\t<li> We do not accept any changes in plan within 15 days of travel date. However in rare cases like adverse climatic conditions or strikes, package can be postponed which will be intimated to you beforehand.</li>\r\n\t<li> The validity to utilize your Advance payment in prepone/postpone scenarios is 1 Year from the date of advance payment.</li>\r\n\t<li>The avance payment and the invoice Number allotted to you, are transferable i.e. you can pass on your booking to any of your friends/ relatives. (Please Note: In order to transfer your booking you must meet the above terms and conditions first).</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "Dhow Dinner Cruise - Creek",
+                "2": "Half Day City tour",
+                "3": "Desert Safari Dubai",
+                "4": "-",
+                "5": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjEwNyIsIkdUWFBrZ0lkIjoiNDA4MzYiLCJUUElkIjoiNDA4MzYiLCJwYWNrYWdlIjp7Ik5hbWUiOiJBbWF6aW5nIER1YmFpICg0TiBEdWJhaSkiLCJUYWdsaW5lMSI6IiJ9LCJQYWNrYWdlVHlwZSI6IjEiLCJkZWZhdWx0Q2F0ZWdvcnlJZCI6MiwiZGVmYXVsdFRvdXJUeXBlIjoxLCJtcCI6MCwiQ291bnRyaWVzIjoiVW5pdGVkIEFyYWIgRW1pcmF0ZXMiLCJDb3VudHJ5SWRzIjoiMjI4IiwiSXNGaXhlZERlcGFydHVyZVBhY2thZ2UiOjAsIkNhdGVnb3J5RGF0ZUFycmF5IjpbeyJGcm9tRGF0ZVZhbCI6IjIwMjItMTAtMDEiLCJGcm9tRGF0ZSI6IjAxXC8xMFwvMjAyMiJ9XSwibXlDdXN0b21pemVEZXN0TmlnaHRzIjpbeyJjaXR5SWQiOjgyMTksInRpdGxlIjoiRHViYWkiLCJuaWdodHMiOiI0TiIsIkNvdW50cnlJZHMiOiIyMjgifV0sIkR1cmF0aW9uIjoiNCIsIkN1cnJlbmN5VHlwZSI6IklOUiJ9",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "39",
+            "Countries": "United Arab Emirates",
+            "CountryIds": "228",
+            "TPId": "37183",
+            "GTXPkgId": "37183",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Dubai,Middle East,United Arab Emirates",
+            "DestinationsId": "8219",
+            "des": "Dubai | Dubai (5N) | Dubai",
+            "desSaArr": {
+                "Dubai": 5
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 8219,
+                    "title": "Dubai",
+                    "nights": "5N",
+                    "CountryIds": "228"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":8219,\"title\":\"Dubai\",\"nights\":\"5N\",\"CountryIds\":\"228\"}]",
+            "PriceRange": "20001-25000",
+            "Duration": "5",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Family",
+                "Weekend"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Luxury"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Crowne Plaza Jumeirah (5N Dubai)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/crowne_plaza_jumeirah_5n_dubai_1656669239.jpeg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/crowne_plaza_jumeirah_5n_dubai_1656669239.jpeg",
+            "defaultCategoryId": 4,
+            "itineraryArr1": {
+                "Luxury": [
+                    {
+                        "hid": 511895,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Crowne Plaza Dubai Jumeirah",
+                        "star": 5,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 0,
+                        "nights": 5
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Luxury": "{\"haid\":[null],\"HotelCityId\":[8219],\"night\":[6],\"MEALPLANTYPE\":[null],\"ROOMTYPE\":[null]}"
+            },
+            "Price": 23117,
+            "PriceDis": 23117.44,
+            "defaultStandard": "Luxury",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Luxury": {
+                        "TPId": "37183",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 22610,
+                                "priceDoubleOcc": "22609.94",
+                                "priceSingleOcc": 67829.83,
+                                "priceExtraBed": "22609.94",
+                                "priceWithoutBed": "22609.94",
+                                "Tax": "Excluded",
+                                "PAX": 12,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 22609.94,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 283.5,
+                                "CEB": 283.5,
+                                "COSTDO": 283.5,
+                                "COSTSO": 850.5,
+                                "ACEB": 283.5,
+                                "COSTTO": 283.5
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 22610,
+                                "priceDoubleOcc": "22609.94",
+                                "priceSingleOcc": 67829.83,
+                                "priceExtraBed": "22609.94",
+                                "priceWithoutBed": "22609.94",
+                                "Tax": "Excluded",
+                                "PAX": 10,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 22609.94,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 283.5,
+                                "CEB": 283.5,
+                                "COSTDO": 283.5,
+                                "COSTSO": 850.5,
+                                "ACEB": 283.5,
+                                "COSTTO": 283.5
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 22610,
+                                "priceDoubleOcc": "22609.94",
+                                "priceSingleOcc": 67829.83,
+                                "priceExtraBed": "22609.94",
+                                "priceWithoutBed": "22609.94",
+                                "Tax": "Excluded",
+                                "PAX": 8,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 22609.94,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 283.5,
+                                "CEB": 283.5,
+                                "COSTDO": 283.5,
+                                "COSTSO": 850.5,
+                                "ACEB": 283.5,
+                                "COSTTO": 283.5
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 22610,
+                                "priceDoubleOcc": "22609.94",
+                                "priceSingleOcc": 67829.83,
+                                "priceExtraBed": "22609.94",
+                                "priceWithoutBed": "22609.94",
+                                "Tax": "Excluded",
+                                "PAX": 6,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 22609.94,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 283.5,
+                                "CEB": 283.5,
+                                "COSTDO": 283.5,
+                                "COSTSO": 850.5,
+                                "ACEB": 283.5,
+                                "COSTTO": 283.5
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 22610,
+                                "priceDoubleOcc": "22609.94",
+                                "priceSingleOcc": 67829.83,
+                                "priceExtraBed": "22609.94",
+                                "priceWithoutBed": "22609.94",
+                                "Tax": "Excluded",
+                                "PAX": 4,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 22609.94,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 283.5,
+                                "CEB": 283.5,
+                                "COSTDO": 283.5,
+                                "COSTSO": 850.5,
+                                "ACEB": 283.5,
+                                "COSTTO": 283.5
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 22610,
+                                "priceDoubleOcc": "22609.94",
+                                "priceSingleOcc": 67829.83,
+                                "priceExtraBed": "22609.94",
+                                "priceWithoutBed": "22609.94",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 22609.94,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 283.5,
+                                "CEB": 283.5,
+                                "COSTDO": 283.5,
+                                "COSTSO": 850.5,
+                                "ACEB": 283.5,
+                                "COSTTO": 283.5
+                            }
+                        ],
+                        "GroupSize": 12
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 12,
+            "SourcePlaceSysId": 8219,
+            "DestinationPlacesSysId": 8219,
+            "SourcePlaces": "Dubai",
+            "DestinationPlaces": "Dubai",
+            "Inclusion": "<ul>\r\n\t<li>05 Nights stay with breakfast</li>\r\n\t<li>Return Airport Transfers (PVT Basis)</li>\r\n\t<li>Half day guided Dubai City Tour</li>\r\n\t<li>Desert Safari with BBQ Dinner</li>\r\n\t<li>Dhow Dinner Cruise - Creek</li>\r\n\t<li>Future museum </li>\r\n\t<li>All transfers on sharing basis</li>\r\n\t<li>VAT</li>\r\n</ul>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>Flight Tickets OR Visa is not included in above cost</li>\r\n\t<li>Tourism Dhiram Fees or Ok to Board</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "-",
+                "2": "Half Day City tour, Dhow Dinner Cruise - Creek, Desert Safari Dubai, Future museum with transfers",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjM5IiwiR1RYUGtnSWQiOiIzNzE4MyIsIlRQSWQiOiIzNzE4MyIsInBhY2thZ2UiOnsiTmFtZSI6IkNyb3duZSBQbGF6YSBKdW1laXJhaCAoNU4gRHViYWkpIiwiVGFnbGluZTEiOiIifSwiUGFja2FnZVR5cGUiOiIxIiwiZGVmYXVsdENhdGVnb3J5SWQiOjQsImRlZmF1bHRUb3VyVHlwZSI6MSwibXAiOjAsIkNvdW50cmllcyI6IlVuaXRlZCBBcmFiIEVtaXJhdGVzIiwiQ291bnRyeUlkcyI6IjIyOCIsIklzRml4ZWREZXBhcnR1cmVQYWNrYWdlIjowLCJDYXRlZ29yeURhdGVBcnJheSI6W10sIm15Q3VzdG9taXplRGVzdE5pZ2h0cyI6W3siY2l0eUlkIjo4MjE5LCJ0aXRsZSI6IkR1YmFpIiwibmlnaHRzIjoiNU4iLCJDb3VudHJ5SWRzIjoiMjI4In1dLCJEdXJhdGlvbiI6IjUiLCJDdXJyZW5jeVR5cGUiOiJJTlIifQ==",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "36",
+            "Countries": "United Arab Emirates",
+            "CountryIds": "228",
+            "TPId": "37170",
+            "GTXPkgId": "37170",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Dubai,Middle East,United Arab Emirates",
+            "DestinationsId": "8219",
+            "des": "Dubai | Dubai (5N) | Dubai",
+            "desSaArr": {
+                "Dubai": 5
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 8219,
+                    "title": "Dubai",
+                    "nights": "5N",
+                    "CountryIds": "228"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":8219,\"title\":\"Dubai\",\"nights\":\"5N\",\"CountryIds\":\"228\"}]",
+            "PriceRange": "20001-25000",
+            "Duration": "5",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Family",
+                "Weekend"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Luxury"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Crowne Plaza Deira (5N Dubai)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/crowne_plaza_deira_5n_dubali_1656660029.jpeg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/crowne_plaza_deira_5n_dubali_1656660029.jpeg",
+            "defaultCategoryId": 4,
+            "itineraryArr1": {
+                "Luxury": [
+                    {
+                        "hid": 512559,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Crowne Plaza Dubai - Deira",
+                        "star": 5,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 0,
+                        "nights": 5
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Luxury": "{\"haid\":[null],\"HotelCityId\":[8219],\"night\":[6],\"MEALPLANTYPE\":[null],\"ROOMTYPE\":[null]}"
+            },
+            "Price": 23545,
+            "PriceDis": 23545.51,
+            "defaultStandard": "Luxury",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Luxury": {
+                        "TPId": "37170",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 23029,
+                                "priceDoubleOcc": "23028.64",
+                                "priceSingleOcc": 64898.9,
+                                "priceExtraBed": "23028.64",
+                                "priceWithoutBed": "23028.64",
+                                "Tax": "Excluded",
+                                "PAX": 12,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 23028.64,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 288.75,
+                                "CEB": 288.75,
+                                "COSTDO": 288.75,
+                                "COSTSO": 813.75,
+                                "ACEB": 288.75,
+                                "COSTTO": 288.75
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 23029,
+                                "priceDoubleOcc": "23028.64",
+                                "priceSingleOcc": 64898.9,
+                                "priceExtraBed": "23028.64",
+                                "priceWithoutBed": "23028.64",
+                                "Tax": "Excluded",
+                                "PAX": 10,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 23028.64,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 288.75,
+                                "CEB": 288.75,
+                                "COSTDO": 288.75,
+                                "COSTSO": 813.75,
+                                "ACEB": 288.75,
+                                "COSTTO": 288.75
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 23029,
+                                "priceDoubleOcc": "23028.64",
+                                "priceSingleOcc": 64898.9,
+                                "priceExtraBed": "23028.64",
+                                "priceWithoutBed": "23028.64",
+                                "Tax": "Excluded",
+                                "PAX": 8,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 23028.64,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 288.75,
+                                "CEB": 288.75,
+                                "COSTDO": 288.75,
+                                "COSTSO": 813.75,
+                                "ACEB": 288.75,
+                                "COSTTO": 288.75
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 23029,
+                                "priceDoubleOcc": "23028.64",
+                                "priceSingleOcc": 64898.9,
+                                "priceExtraBed": "23028.64",
+                                "priceWithoutBed": "23028.64",
+                                "Tax": "Excluded",
+                                "PAX": 6,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 23028.64,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 288.75,
+                                "CEB": 288.75,
+                                "COSTDO": 288.75,
+                                "COSTSO": 813.75,
+                                "ACEB": 288.75,
+                                "COSTTO": 288.75
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 23029,
+                                "priceDoubleOcc": "23028.64",
+                                "priceSingleOcc": 64898.9,
+                                "priceExtraBed": "23028.64",
+                                "priceWithoutBed": "23028.64",
+                                "Tax": "Excluded",
+                                "PAX": 4,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 23028.64,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 288.75,
+                                "CEB": 288.75,
+                                "COSTDO": 288.75,
+                                "COSTSO": 813.75,
+                                "ACEB": 288.75,
+                                "COSTTO": 288.75
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 23029,
+                                "priceDoubleOcc": "23028.64",
+                                "priceSingleOcc": 64898.9,
+                                "priceExtraBed": "23028.64",
+                                "priceWithoutBed": "23028.64",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 23028.64,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 288.75,
+                                "CEB": 288.75,
+                                "COSTDO": 288.75,
+                                "COSTSO": 813.75,
+                                "ACEB": 288.75,
+                                "COSTTO": 288.75
+                            }
+                        ],
+                        "GroupSize": 12
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 12,
+            "SourcePlaceSysId": 8219,
+            "DestinationPlacesSysId": 8219,
+            "SourcePlaces": "Dubai",
+            "DestinationPlaces": "Dubai",
+            "Inclusion": "<ul>\r\n\t<li>05 Nights stay with breakfast</li>\r\n\t<li>Return Airport Transfers (PVT Basis)</li>\r\n\t<li>Half day guided Dubai City Tour</li>\r\n\t<li>Desert Safari with BBQ Dinner</li>\r\n\t<li>Dhow Dinner Cruise - Creek</li>\r\n\t<li>Future museum with transfers</li>\r\n\t<li>All transfers on sharing basis</li>\r\n\t<li>VAT</li>\r\n</ul>\r\n\r\n<p> </p>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>Flight Tickets OR Visa is not included in above cost</li>\r\n\t<li>Tourism Dhiram Fees or Ok to Board</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "-",
+                "2": "Dhow Dinner Cruise - Creek, Future museum with transfers, Half Day City tour",
+                "3": "-",
+                "4": "-",
+                "5": "-",
+                "6": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjM2IiwiR1RYUGtnSWQiOiIzNzE3MCIsIlRQSWQiOiIzNzE3MCIsInBhY2thZ2UiOnsiTmFtZSI6IkNyb3duZSBQbGF6YSBEZWlyYSAoNU4gRHViYWkpIiwiVGFnbGluZTEiOiIifSwiUGFja2FnZVR5cGUiOiIxIiwiZGVmYXVsdENhdGVnb3J5SWQiOjQsImRlZmF1bHRUb3VyVHlwZSI6MSwibXAiOjAsIkNvdW50cmllcyI6IlVuaXRlZCBBcmFiIEVtaXJhdGVzIiwiQ291bnRyeUlkcyI6IjIyOCIsIklzRml4ZWREZXBhcnR1cmVQYWNrYWdlIjowLCJDYXRlZ29yeURhdGVBcnJheSI6W10sIm15Q3VzdG9taXplRGVzdE5pZ2h0cyI6W3siY2l0eUlkIjo4MjE5LCJ0aXRsZSI6IkR1YmFpIiwibmlnaHRzIjoiNU4iLCJDb3VudHJ5SWRzIjoiMjI4In1dLCJEdXJhdGlvbiI6IjUiLCJDdXJyZW5jeVR5cGUiOiJJTlIifQ==",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "38",
+            "Countries": "United Arab Emirates",
+            "CountryIds": "228",
+            "TPId": "37181",
+            "GTXPkgId": "37181",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Dubai,Middle East,United Arab Emirates",
+            "DestinationsId": "8219",
+            "des": "Dubai | Dubai (4N) | Dubai",
+            "desSaArr": {
+                "Dubai": 4
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 8219,
+                    "title": "Dubai",
+                    "nights": "4N",
+                    "CountryIds": "228"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":8219,\"title\":\"Dubai\",\"nights\":\"4N\",\"CountryIds\":\"228\"}]",
+            "PriceRange": "35001-40000",
+            "Duration": "4",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Family",
+                "Weekend"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Deluxe"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Vida Downtown (4N Dubai)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/vida_downtown_4n_dubai_1656669395.jpeg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/vida_downtown_4n_dubai_1656669395.jpeg",
+            "defaultCategoryId": 3,
+            "itineraryArr1": {
+                "Deluxe": [
+                    {
+                        "hid": 512560,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Vida Downtown - Dubai",
+                        "star": 4,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 0,
+                        "nights": 4
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Deluxe": "{\"haid\":[null],\"HotelCityId\":[8219],\"night\":[5],\"MEALPLANTYPE\":[null],\"ROOMTYPE\":[null]}"
+            },
+            "Price": 35104,
+            "PriceDis": 35104.32,
+            "defaultStandard": "Deluxe",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Deluxe": {
+                        "TPId": "37181",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-14",
+                                "Currency": 1,
+                                "priceTripleOcc": 34334,
+                                "priceDoubleOcc": "34333.61",
+                                "priceSingleOcc": 101326.04,
+                                "priceExtraBed": "34333.61",
+                                "priceWithoutBed": "34333.61",
+                                "Tax": "Excluded",
+                                "PAX": 12,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 34333.61,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 430.5,
+                                "CEB": 430.5,
+                                "COSTDO": 430.5,
+                                "COSTSO": 1270.5,
+                                "ACEB": 430.5,
+                                "COSTTO": 430.5
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-14",
+                                "Currency": 1,
+                                "priceTripleOcc": 34334,
+                                "priceDoubleOcc": "34333.61",
+                                "priceSingleOcc": 101326.04,
+                                "priceExtraBed": "34333.61",
+                                "priceWithoutBed": "34333.61",
+                                "Tax": "Excluded",
+                                "PAX": 10,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 34333.61,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 430.5,
+                                "CEB": 430.5,
+                                "COSTDO": 430.5,
+                                "COSTSO": 1270.5,
+                                "ACEB": 430.5,
+                                "COSTTO": 430.5
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-14",
+                                "Currency": 1,
+                                "priceTripleOcc": 34334,
+                                "priceDoubleOcc": "34333.61",
+                                "priceSingleOcc": 101326.04,
+                                "priceExtraBed": "34333.61",
+                                "priceWithoutBed": "34333.61",
+                                "Tax": "Excluded",
+                                "PAX": 8,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 34333.61,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 430.5,
+                                "CEB": 430.5,
+                                "COSTDO": 430.5,
+                                "COSTSO": 1270.5,
+                                "ACEB": 430.5,
+                                "COSTTO": 430.5
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-14",
+                                "Currency": 1,
+                                "priceTripleOcc": 34334,
+                                "priceDoubleOcc": "34333.61",
+                                "priceSingleOcc": 101326.04,
+                                "priceExtraBed": "34333.61",
+                                "priceWithoutBed": "34333.61",
+                                "Tax": "Excluded",
+                                "PAX": 6,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 34333.61,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 430.5,
+                                "CEB": 430.5,
+                                "COSTDO": 430.5,
+                                "COSTSO": 1270.5,
+                                "ACEB": 430.5,
+                                "COSTTO": 430.5
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-14",
+                                "Currency": 1,
+                                "priceTripleOcc": 34334,
+                                "priceDoubleOcc": "34333.61",
+                                "priceSingleOcc": 101326.04,
+                                "priceExtraBed": "34333.61",
+                                "priceWithoutBed": "34333.61",
+                                "Tax": "Excluded",
+                                "PAX": 4,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 34333.61,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 430.5,
+                                "CEB": 430.5,
+                                "COSTDO": 430.5,
+                                "COSTSO": 1270.5,
+                                "ACEB": 430.5,
+                                "COSTTO": 430.5
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-09-14",
+                                "Currency": 1,
+                                "priceTripleOcc": 34334,
+                                "priceDoubleOcc": "34333.61",
+                                "priceSingleOcc": 101326.04,
+                                "priceExtraBed": "34333.61",
+                                "priceWithoutBed": "34333.61",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 34333.61,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 430.5,
+                                "CEB": 430.5,
+                                "COSTDO": 430.5,
+                                "COSTSO": 1270.5,
+                                "ACEB": 430.5,
+                                "COSTTO": 430.5
+                            }
+                        ],
+                        "GroupSize": 12
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 12,
+            "SourcePlaceSysId": 8219,
+            "DestinationPlacesSysId": 8219,
+            "SourcePlaces": "Dubai",
+            "DestinationPlaces": "Dubai",
+            "Inclusion": "<ul>\r\n\t<li>04 Nights stay with breakfast</li>\r\n\t<li>Return Airport Transfers (PVT Basis)</li>\r\n\t<li>Half day guided Dubai City Tour</li>\r\n\t<li>Desert Safari with BBQ Dinner</li>\r\n\t<li>Dhow Dinner Cruise - Creek</li>\r\n\t<li>All transfers on sharing basis</li>\r\n\t<li>VAT</li>\r\n</ul>\r\n\r\n<p> </p>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>Flight Tickets OR Visa is not included in above cost</li>\r\n\t<li>Tourism Dhiram Fees or Ok to Board</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "-",
+                "2": "Desert Safari Dubai, Dhow Dinner Cruise - Creek, Half Day City tour",
+                "3": "-",
+                "4": "-",
+                "5": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjM4IiwiR1RYUGtnSWQiOiIzNzE4MSIsIlRQSWQiOiIzNzE4MSIsInBhY2thZ2UiOnsiTmFtZSI6IlZpZGEgRG93bnRvd24gKDROIER1YmFpKSIsIlRhZ2xpbmUxIjoiIn0sIlBhY2thZ2VUeXBlIjoiMSIsImRlZmF1bHRDYXRlZ29yeUlkIjozLCJkZWZhdWx0VG91clR5cGUiOjEsIm1wIjowLCJDb3VudHJpZXMiOiJVbml0ZWQgQXJhYiBFbWlyYXRlcyIsIkNvdW50cnlJZHMiOiIyMjgiLCJJc0ZpeGVkRGVwYXJ0dXJlUGFja2FnZSI6MCwiQ2F0ZWdvcnlEYXRlQXJyYXkiOltdLCJteUN1c3RvbWl6ZURlc3ROaWdodHMiOlt7ImNpdHlJZCI6ODIxOSwidGl0bGUiOiJEdWJhaSIsIm5pZ2h0cyI6IjROIiwiQ291bnRyeUlkcyI6IjIyOCJ9XSwiRHVyYXRpb24iOiI0IiwiQ3VycmVuY3lUeXBlIjoiSU5SIn0=",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "108",
+            "Countries": "United Arab Emirates",
+            "CountryIds": "228",
+            "TPId": "40849",
+            "GTXPkgId": "40849",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Dubai,Middle East,United Arab Emirates",
+            "DestinationsId": "8219",
+            "des": "Dubai | Dubai (5N) | Dubai",
+            "desSaArr": {
+                "Dubai": 5
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 8219,
+                    "title": "Dubai",
+                    "nights": "5N",
+                    "CountryIds": "228"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":8219,\"title\":\"Dubai\",\"nights\":\"5N\",\"CountryIds\":\"228\"}]",
+            "PriceRange": "35001-40000",
+            "Duration": "5",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Family",
+                "Romantic",
+                "Leisure"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Standard"
+                },
+                {
+                    "type": "Deluxe"
+                },
+                {
+                    "type": "Luxury"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Fantastic Dubai (5N Dubai)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/amazing_dubai_1661594577.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/amazing_dubai_1661594577.jpg",
+            "defaultCategoryId": 2,
+            "itineraryArr1": {
+                "Standard": [
+                    {
+                        "hid": 518566,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Citymax Bur Dubai",
+                        "star": 3,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 5
+                    }
+                ],
+                "Deluxe": [
+                    {
+                        "hid": 518567,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Orchid Vue Hotel",
+                        "star": 4,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 5
+                    }
+                ],
+                "Luxury": [
+                    {
+                        "hid": 518568,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Hyatt Regency Deira",
+                        "star": 5,
+                        "city": "Dubai",
+                        "CityId": 8219,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 5
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Luxury": "{\"haid\":[null,null,null],\"HotelCityId\":[8219,8219,8219],\"night\":[5,5,5],\"MEALPLANTYPE\":[null,null,null],\"ROOMTYPE\":[null,null,null]}"
+            },
+            "Price": 38357,
+            "PriceDis": 38357.96,
+            "defaultStandard": "Standard",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Standard": {
+                        "TPId": "40849",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-10-01",
+                                "To": "2022-12-19",
+                                "Currency": 1,
+                                "priceTripleOcc": 33177,
+                                "priceDoubleOcc": "38059.12",
+                                "priceSingleOcc": 78163.91,
+                                "priceExtraBed": "23414.00",
+                                "priceWithoutBed": "18316.80",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 38059.12,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 226.3905,
+                                "CEB": 289.39050000000003,
+                                "COSTDO": 470.4,
+                                "COSTSO": 966.084,
+                                "ACEB": 289.39050000000003,
+                                "COSTTO": 289.39050000000003
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Deluxe": {
+                        "TPId": "40850",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-10-01",
+                                "To": "2022-12-19",
+                                "Currency": 1,
+                                "priceTripleOcc": 42466,
+                                "priceDoubleOcc": "43241.27",
+                                "priceSingleOcc": 89717.57,
+                                "priceExtraBed": "40914.39",
+                                "priceWithoutBed": "19421.19",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 43241.27,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 240.0405,
+                                "CEB": 505.69050000000004,
+                                "COSTDO": 534.45,
+                                "COSTSO": 1108.884,
+                                "ACEB": 505.69050000000004,
+                                "COSTTO": 505.69050000000004
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Luxury": {
+                        "TPId": "40851",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-10-01",
+                                "To": "2022-12-19",
+                                "Currency": 1,
+                                "priceTripleOcc": 45779,
+                                "priceDoubleOcc": "51226.89",
+                                "priceSingleOcc": 104584.41,
+                                "priceExtraBed": "34882.71",
+                                "priceWithoutBed": "18316.80",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 51226.89,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 226.3905,
+                                "CEB": 431.14050000000003,
+                                "COSTDO": 633.15,
+                                "COSTSO": 1292.634,
+                                "ACEB": 431.14050000000003,
+                                "COSTTO": 431.14050000000003
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [
+                {
+                    "FromDateVal": "2022-10-01",
+                    "FromDate": "01/10/2022"
+                }
+            ],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 8219,
+            "DestinationPlacesSysId": 8219,
+            "SourcePlaces": "Dubai",
+            "DestinationPlaces": "Dubai",
+            "Inclusion": "<ul>\r\n\t<li>05 Night accomodation in mentioned hotel or Simiar</li>\r\n\t<li>05 Breakfast</li>\r\n\t<li>Return Dubai Aiport transfer on PVT basis</li>\r\n\t<li>Dhow Cruise Dinner - Creek on SIC transfer</li>\r\n\t<li>Dubai City Tour on SIC transfer</li>\r\n\t<li>Desert Safari tour on SIC transfer</li>\r\n\t<li>Burj Khalifa and Aquarium Tickets -124th Floor Tickets with Dubai Aquarium (NON-Prime hours) on SIC transfer</li>\r\n\t<li>Abu Dhabi City Tour With Ferrari world Transfers only on PVT transfer</li>\r\n\t<li>VAT</li>\r\n</ul>\r\n",
+            "Exclusions": "<ul>\r\n\t<li> Flight Tickets OR Visa is not included in above cost</li>\r\n\t<li>Tourism Dhiram Fees or Ok to Board</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included </li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li> Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n</ul>\r\n\r\n<p><strong>TCS Not Included</strong> : - </p>\r\n\r\n<ul>\r\n\t<li>In case client wishes to prepone /postpone his or her travel dates, we request you to kindly reach us 15 days prior to journey date via e-mail/SMS.</li>\r\n\t<li>The customers can prepone /postpone their tour once without any additional charges (if intimated before 15 days of travel date in written). However postponing & preponing second time will attract additional charges.</li>\r\n\t<li>Also note that few service providers (Hoteliers, Transporter etc.) may apply postpone/prepone charges even after meeting above requirement. In such cases postpone/prepone charges will deducted from the advance amount deposited.</li>\r\n\t<li>In all prepone or postpone scenarios, the services and the costing will be subject to availability of Hotel/Volvo and season/off season time.</li>\r\n\t<li> We do not accept any changes in plan within 15 days of travel date. However in rare cases like adverse climatic conditions or strikes, package can be postponed which will be intimated to you beforehand.</li>\r\n\t<li> The validity to utilize your Advance payment in prepone/postpone scenarios is 1 Year from the date of advance payment.</li>\r\n\t<li>The avance payment and the invoice Number allotted to you, are transferable i.e. you can pass on your booking to any of your friends/ relatives. (Please Note: In order to transfer your booking you must meet the above terms and conditions first).</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "-",
+                "2": "Half Day City tour, Dhow Dinner Cruise - Creek",
+                "3": "Desert Safari Dubai",
+                "4": "Burj Khalifa and Aquarium",
+                "5": "Abu Dhabi city tour with Ferrari world",
+                "6": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjEwOCIsIkdUWFBrZ0lkIjoiNDA4NDkiLCJUUElkIjoiNDA4NDkiLCJwYWNrYWdlIjp7Ik5hbWUiOiJGYW50YXN0aWMgRHViYWkgKDVOIER1YmFpKSIsIlRhZ2xpbmUxIjoiIn0sIlBhY2thZ2VUeXBlIjoiMSIsImRlZmF1bHRDYXRlZ29yeUlkIjoyLCJkZWZhdWx0VG91clR5cGUiOjEsIm1wIjowLCJDb3VudHJpZXMiOiJVbml0ZWQgQXJhYiBFbWlyYXRlcyIsIkNvdW50cnlJZHMiOiIyMjgiLCJJc0ZpeGVkRGVwYXJ0dXJlUGFja2FnZSI6MCwiQ2F0ZWdvcnlEYXRlQXJyYXkiOlt7IkZyb21EYXRlVmFsIjoiMjAyMi0xMC0wMSIsIkZyb21EYXRlIjoiMDFcLzEwXC8yMDIyIn1dLCJteUN1c3RvbWl6ZURlc3ROaWdodHMiOlt7ImNpdHlJZCI6ODIxOSwidGl0bGUiOiJEdWJhaSIsIm5pZ2h0cyI6IjVOIiwiQ291bnRyeUlkcyI6IjIyOCJ9XSwiRHVyYXRpb24iOiI1IiwiQ3VycmVuY3lUeXBlIjoiSU5SIn0=",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        }
+    ],
+    "filterCat": [
+        "Adventure",
+        "Beach",
+        "Family",
+        "Honeymoon",
+        "Leisure",
+        "Romantic",
+        "Weekend"
+    ],
+    "filterDest": [
+        "Dubai",
+        "Middle East",
+        "United Arab Emirates"
+    ],
+    "filterNight": [
+        "3",
+        "4",
+        "5"
+    ],
+    "filterPrice": [
+        {
+            "value": "15001-20000",
+            "count": 3
+        },
+        {
+            "value": "20001-25000",
+            "count": 3
+        },
+        {
+            "value": "35001-40000",
+            "count": 2
+        }
+    ],
+    "PackagePriceRangeCountArr": {
+        "15001-20000": 3,
+        "20001-25000": 3,
+        "35001-40000": 2
+    },
+    "fixedInventoryNewDestinations": [],
+    "imgIndex": [
+        1,
+        2,
+        3,
+        1,
+        2,
+        3,
+        1,
+        2
+    ],
+    "MyMparr": {
+        "36": {
+            "P": {
+                "Luxury": {
+                    "TPId": "37170",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 23029,
+                            "priceDoubleOcc": "23028.64",
+                            "priceSingleOcc": 64898.9,
+                            "priceExtraBed": "23028.64",
+                            "priceWithoutBed": "23028.64",
+                            "Tax": "Excluded",
+                            "PAX": 12,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 23028.64,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 288.75,
+                            "CEB": 288.75,
+                            "COSTDO": 288.75,
+                            "COSTSO": 813.75,
+                            "ACEB": 288.75,
+                            "COSTTO": 288.75
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 23029,
+                            "priceDoubleOcc": "23028.64",
+                            "priceSingleOcc": 64898.9,
+                            "priceExtraBed": "23028.64",
+                            "priceWithoutBed": "23028.64",
+                            "Tax": "Excluded",
+                            "PAX": 10,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 23028.64,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 288.75,
+                            "CEB": 288.75,
+                            "COSTDO": 288.75,
+                            "COSTSO": 813.75,
+                            "ACEB": 288.75,
+                            "COSTTO": 288.75
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 23029,
+                            "priceDoubleOcc": "23028.64",
+                            "priceSingleOcc": 64898.9,
+                            "priceExtraBed": "23028.64",
+                            "priceWithoutBed": "23028.64",
+                            "Tax": "Excluded",
+                            "PAX": 8,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 23028.64,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 288.75,
+                            "CEB": 288.75,
+                            "COSTDO": 288.75,
+                            "COSTSO": 813.75,
+                            "ACEB": 288.75,
+                            "COSTTO": 288.75
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 23029,
+                            "priceDoubleOcc": "23028.64",
+                            "priceSingleOcc": 64898.9,
+                            "priceExtraBed": "23028.64",
+                            "priceWithoutBed": "23028.64",
+                            "Tax": "Excluded",
+                            "PAX": 6,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 23028.64,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 288.75,
+                            "CEB": 288.75,
+                            "COSTDO": 288.75,
+                            "COSTSO": 813.75,
+                            "ACEB": 288.75,
+                            "COSTTO": 288.75
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 23029,
+                            "priceDoubleOcc": "23028.64",
+                            "priceSingleOcc": 64898.9,
+                            "priceExtraBed": "23028.64",
+                            "priceWithoutBed": "23028.64",
+                            "Tax": "Excluded",
+                            "PAX": 4,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 23028.64,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 288.75,
+                            "CEB": 288.75,
+                            "COSTDO": 288.75,
+                            "COSTSO": 813.75,
+                            "ACEB": 288.75,
+                            "COSTTO": 288.75
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 23029,
+                            "priceDoubleOcc": "23028.64",
+                            "priceSingleOcc": 64898.9,
+                            "priceExtraBed": "23028.64",
+                            "priceWithoutBed": "23028.64",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 23028.64,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 288.75,
+                            "CEB": 288.75,
+                            "COSTDO": 288.75,
+                            "COSTSO": 813.75,
+                            "ACEB": 288.75,
+                            "COSTTO": 288.75
+                        }
+                    ],
+                    "GroupSize": 12
+                }
+            }
+        },
+        "37": {
+            "P": {
+                "Deluxe": {
+                    "TPId": "37172",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 15492,
+                            "priceDoubleOcc": "15491.99",
+                            "priceSingleOcc": 46475.99,
+                            "priceExtraBed": "15491.99",
+                            "priceWithoutBed": "13984.67",
+                            "Tax": "Excluded",
+                            "PAX": 12,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 15491.99,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 175.35,
+                            "CEB": 194.25,
+                            "COSTDO": 194.25,
+                            "COSTSO": 582.75,
+                            "ACEB": 194.25,
+                            "COSTTO": 194.25
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 15492,
+                            "priceDoubleOcc": "15491.99",
+                            "priceSingleOcc": 46475.99,
+                            "priceExtraBed": "15491.99",
+                            "priceWithoutBed": "13984.67",
+                            "Tax": "Excluded",
+                            "PAX": 10,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 15491.99,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 175.35,
+                            "CEB": 194.25,
+                            "COSTDO": 194.25,
+                            "COSTSO": 582.75,
+                            "ACEB": 194.25,
+                            "COSTTO": 194.25
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 15492,
+                            "priceDoubleOcc": "15491.99",
+                            "priceSingleOcc": 46475.99,
+                            "priceExtraBed": "15491.99",
+                            "priceWithoutBed": "13984.67",
+                            "Tax": "Excluded",
+                            "PAX": 8,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 15491.99,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 175.35,
+                            "CEB": 194.25,
+                            "COSTDO": 194.25,
+                            "COSTSO": 582.75,
+                            "ACEB": 194.25,
+                            "COSTTO": 194.25
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 15492,
+                            "priceDoubleOcc": "15491.99",
+                            "priceSingleOcc": 46475.99,
+                            "priceExtraBed": "15491.99",
+                            "priceWithoutBed": "13984.67",
+                            "Tax": "Excluded",
+                            "PAX": 6,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 15491.99,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 175.35,
+                            "CEB": 194.25,
+                            "COSTDO": 194.25,
+                            "COSTSO": 582.75,
+                            "ACEB": 194.25,
+                            "COSTTO": 194.25
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 15492,
+                            "priceDoubleOcc": "15491.99",
+                            "priceSingleOcc": 46475.99,
+                            "priceExtraBed": "15491.99",
+                            "priceWithoutBed": "13984.67",
+                            "Tax": "Excluded",
+                            "PAX": 4,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 15491.99,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 175.35,
+                            "CEB": 194.25,
+                            "COSTDO": 194.25,
+                            "COSTSO": 582.75,
+                            "ACEB": 194.25,
+                            "COSTTO": 194.25
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 15492,
+                            "priceDoubleOcc": "15491.99",
+                            "priceSingleOcc": 46475.99,
+                            "priceExtraBed": "15491.99",
+                            "priceWithoutBed": "13984.67",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 15491.99,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 175.35,
+                            "CEB": 194.25,
+                            "COSTDO": 194.25,
+                            "COSTSO": 582.75,
+                            "ACEB": 194.25,
+                            "COSTTO": 194.25
+                        }
+                    ],
+                    "GroupSize": 12
+                }
+            }
+        },
+        "38": {
+            "P": {
+                "Deluxe": {
+                    "TPId": "37181",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-14",
+                            "Currency": 1,
+                            "priceTripleOcc": 34334,
+                            "priceDoubleOcc": "34333.61",
+                            "priceSingleOcc": 101326.04,
+                            "priceExtraBed": "34333.61",
+                            "priceWithoutBed": "34333.61",
+                            "Tax": "Excluded",
+                            "PAX": 12,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 34333.61,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 430.5,
+                            "CEB": 430.5,
+                            "COSTDO": 430.5,
+                            "COSTSO": 1270.5,
+                            "ACEB": 430.5,
+                            "COSTTO": 430.5
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-14",
+                            "Currency": 1,
+                            "priceTripleOcc": 34334,
+                            "priceDoubleOcc": "34333.61",
+                            "priceSingleOcc": 101326.04,
+                            "priceExtraBed": "34333.61",
+                            "priceWithoutBed": "34333.61",
+                            "Tax": "Excluded",
+                            "PAX": 10,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 34333.61,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 430.5,
+                            "CEB": 430.5,
+                            "COSTDO": 430.5,
+                            "COSTSO": 1270.5,
+                            "ACEB": 430.5,
+                            "COSTTO": 430.5
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-14",
+                            "Currency": 1,
+                            "priceTripleOcc": 34334,
+                            "priceDoubleOcc": "34333.61",
+                            "priceSingleOcc": 101326.04,
+                            "priceExtraBed": "34333.61",
+                            "priceWithoutBed": "34333.61",
+                            "Tax": "Excluded",
+                            "PAX": 8,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 34333.61,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 430.5,
+                            "CEB": 430.5,
+                            "COSTDO": 430.5,
+                            "COSTSO": 1270.5,
+                            "ACEB": 430.5,
+                            "COSTTO": 430.5
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-14",
+                            "Currency": 1,
+                            "priceTripleOcc": 34334,
+                            "priceDoubleOcc": "34333.61",
+                            "priceSingleOcc": 101326.04,
+                            "priceExtraBed": "34333.61",
+                            "priceWithoutBed": "34333.61",
+                            "Tax": "Excluded",
+                            "PAX": 6,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 34333.61,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 430.5,
+                            "CEB": 430.5,
+                            "COSTDO": 430.5,
+                            "COSTSO": 1270.5,
+                            "ACEB": 430.5,
+                            "COSTTO": 430.5
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-14",
+                            "Currency": 1,
+                            "priceTripleOcc": 34334,
+                            "priceDoubleOcc": "34333.61",
+                            "priceSingleOcc": 101326.04,
+                            "priceExtraBed": "34333.61",
+                            "priceWithoutBed": "34333.61",
+                            "Tax": "Excluded",
+                            "PAX": 4,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 34333.61,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 430.5,
+                            "CEB": 430.5,
+                            "COSTDO": 430.5,
+                            "COSTSO": 1270.5,
+                            "ACEB": 430.5,
+                            "COSTTO": 430.5
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-14",
+                            "Currency": 1,
+                            "priceTripleOcc": 34334,
+                            "priceDoubleOcc": "34333.61",
+                            "priceSingleOcc": 101326.04,
+                            "priceExtraBed": "34333.61",
+                            "priceWithoutBed": "34333.61",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 34333.61,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 430.5,
+                            "CEB": 430.5,
+                            "COSTDO": 430.5,
+                            "COSTSO": 1270.5,
+                            "ACEB": 430.5,
+                            "COSTTO": 430.5
+                        }
+                    ],
+                    "GroupSize": 12
+                }
+            }
+        },
+        "39": {
+            "P": {
+                "Luxury": {
+                    "TPId": "37183",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 22610,
+                            "priceDoubleOcc": "22609.94",
+                            "priceSingleOcc": 67829.83,
+                            "priceExtraBed": "22609.94",
+                            "priceWithoutBed": "22609.94",
+                            "Tax": "Excluded",
+                            "PAX": 12,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 22609.94,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 283.5,
+                            "CEB": 283.5,
+                            "COSTDO": 283.5,
+                            "COSTSO": 850.5,
+                            "ACEB": 283.5,
+                            "COSTTO": 283.5
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 22610,
+                            "priceDoubleOcc": "22609.94",
+                            "priceSingleOcc": 67829.83,
+                            "priceExtraBed": "22609.94",
+                            "priceWithoutBed": "22609.94",
+                            "Tax": "Excluded",
+                            "PAX": 10,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 22609.94,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 283.5,
+                            "CEB": 283.5,
+                            "COSTDO": 283.5,
+                            "COSTSO": 850.5,
+                            "ACEB": 283.5,
+                            "COSTTO": 283.5
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 22610,
+                            "priceDoubleOcc": "22609.94",
+                            "priceSingleOcc": 67829.83,
+                            "priceExtraBed": "22609.94",
+                            "priceWithoutBed": "22609.94",
+                            "Tax": "Excluded",
+                            "PAX": 8,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 22609.94,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 283.5,
+                            "CEB": 283.5,
+                            "COSTDO": 283.5,
+                            "COSTSO": 850.5,
+                            "ACEB": 283.5,
+                            "COSTTO": 283.5
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 22610,
+                            "priceDoubleOcc": "22609.94",
+                            "priceSingleOcc": 67829.83,
+                            "priceExtraBed": "22609.94",
+                            "priceWithoutBed": "22609.94",
+                            "Tax": "Excluded",
+                            "PAX": 6,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 22609.94,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 283.5,
+                            "CEB": 283.5,
+                            "COSTDO": 283.5,
+                            "COSTSO": 850.5,
+                            "ACEB": 283.5,
+                            "COSTTO": 283.5
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 22610,
+                            "priceDoubleOcc": "22609.94",
+                            "priceSingleOcc": 67829.83,
+                            "priceExtraBed": "22609.94",
+                            "priceWithoutBed": "22609.94",
+                            "Tax": "Excluded",
+                            "PAX": 4,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 22609.94,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 283.5,
+                            "CEB": 283.5,
+                            "COSTDO": 283.5,
+                            "COSTSO": 850.5,
+                            "ACEB": 283.5,
+                            "COSTTO": 283.5
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 22610,
+                            "priceDoubleOcc": "22609.94",
+                            "priceSingleOcc": 67829.83,
+                            "priceExtraBed": "22609.94",
+                            "priceWithoutBed": "22609.94",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 22609.94,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 283.5,
+                            "CEB": 283.5,
+                            "COSTDO": 283.5,
+                            "COSTSO": 850.5,
+                            "ACEB": 283.5,
+                            "COSTTO": 283.5
+                        }
+                    ],
+                    "GroupSize": 12
+                }
+            }
+        },
+        "44": {
+            "P": {
+                "Deluxe": {
+                    "TPId": "37247",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-07-04",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 15071,
+                            "priceDoubleOcc": "15070.94",
+                            "priceSingleOcc": 45212.83,
+                            "priceExtraBed": "15070.94",
+                            "priceWithoutBed": "15070.94",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 15070.94,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 189,
+                            "CEB": 189,
+                            "COSTDO": 189,
+                            "COSTSO": 567,
+                            "ACEB": 189,
+                            "COSTTO": 189
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        },
+        "106": {
+            "P": {
+                "Standard": {
+                    "TPId": "40813",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-12-19",
+                            "To": "2022-12-19",
+                            "Currency": 1,
+                            "priceTripleOcc": 16708,
+                            "priceDoubleOcc": "18689.75",
+                            "priceSingleOcc": 31432.760000000002,
+                            "priceExtraBed": "12743.01",
+                            "priceWithoutBed": "7221.04",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 18689.75,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 89.25,
+                            "CEB": 157.5,
+                            "COSTDO": 231,
+                            "COSTSO": 388.5,
+                            "ACEB": 157.5,
+                            "COSTTO": 157.5
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Deluxe": {
+                    "TPId": "40814",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-12-19",
+                            "To": "2022-12-19",
+                            "Currency": 1,
+                            "priceTripleOcc": 22088,
+                            "priceDoubleOcc": "22087.88",
+                            "priceSingleOcc": 38653.79,
+                            "priceExtraBed": "22087.88",
+                            "priceWithoutBed": "7645.81",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 22087.88,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 94.5,
+                            "CEB": 273,
+                            "COSTDO": 273,
+                            "COSTSO": 477.75,
+                            "ACEB": 273,
+                            "COSTTO": 273
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Luxury": {
+                    "TPId": "40815",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-12-19",
+                            "To": "2022-12-19",
+                            "Currency": 1,
+                            "priceTripleOcc": 23221,
+                            "priceDoubleOcc": "26335.55",
+                            "priceSingleOcc": 47573.899999999994,
+                            "priceExtraBed": "16990.68",
+                            "priceWithoutBed": "8070.57",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 26335.55,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 99.75,
+                            "CEB": 210,
+                            "COSTDO": 325.5,
+                            "COSTSO": 588,
+                            "ACEB": 210,
+                            "COSTTO": 210
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        },
+        "107": {
+            "P": {
+                "Standard": {
+                    "TPId": "40836",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-10-01",
+                            "To": "2022-12-19",
+                            "Currency": 1,
+                            "priceTripleOcc": 18322,
+                            "priceDoubleOcc": "21748.06",
+                            "priceSingleOcc": 38738.740000000005,
+                            "priceExtraBed": "11468.71",
+                            "priceWithoutBed": "9769.64",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 21748.06,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 120.75,
+                            "CEB": 141.75,
+                            "COSTDO": 268.8,
+                            "COSTSO": 478.8,
+                            "ACEB": 141.75,
+                            "COSTTO": 141.75
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Deluxe": {
+                    "TPId": "40837",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-10-01",
+                            "To": "2022-12-19",
+                            "Currency": 1,
+                            "priceTripleOcc": 27185,
+                            "priceDoubleOcc": "27185.09",
+                            "priceSingleOcc": 47998.67,
+                            "priceExtraBed": "27185.09",
+                            "priceWithoutBed": "8070.57",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 27185.09,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 99.75,
+                            "CEB": 336,
+                            "COSTDO": 336,
+                            "COSTSO": 593.25,
+                            "ACEB": 336,
+                            "COSTTO": 336
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Luxury": {
+                    "TPId": "40838",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-10-01",
+                            "To": "2022-12-19",
+                            "Currency": 1,
+                            "priceTripleOcc": 28714,
+                            "priceDoubleOcc": "32452.19",
+                            "priceSingleOcc": 49442.869999999995,
+                            "priceExtraBed": "21238.35",
+                            "priceWithoutBed": "8495.34",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 32452.19,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 105,
+                            "CEB": 262.5,
+                            "COSTDO": 401.1,
+                            "COSTSO": 611.1,
+                            "ACEB": 262.5,
+                            "COSTTO": 262.5
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        },
+        "108": {
+            "P": {
+                "Standard": {
+                    "TPId": "40849",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-10-01",
+                            "To": "2022-12-19",
+                            "Currency": 1,
+                            "priceTripleOcc": 33177,
+                            "priceDoubleOcc": "38059.12",
+                            "priceSingleOcc": 78163.91,
+                            "priceExtraBed": "23414.00",
+                            "priceWithoutBed": "18316.80",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 38059.12,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 226.3905,
+                            "CEB": 289.39050000000003,
+                            "COSTDO": 470.4,
+                            "COSTSO": 966.084,
+                            "ACEB": 289.39050000000003,
+                            "COSTTO": 289.39050000000003
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Deluxe": {
+                    "TPId": "40850",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-10-01",
+                            "To": "2022-12-19",
+                            "Currency": 1,
+                            "priceTripleOcc": 42466,
+                            "priceDoubleOcc": "43241.27",
+                            "priceSingleOcc": 89717.57,
+                            "priceExtraBed": "40914.39",
+                            "priceWithoutBed": "19421.19",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 43241.27,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 240.0405,
+                            "CEB": 505.69050000000004,
+                            "COSTDO": 534.45,
+                            "COSTSO": 1108.884,
+                            "ACEB": 505.69050000000004,
+                            "COSTTO": 505.69050000000004
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Luxury": {
+                    "TPId": "40851",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-10-01",
+                            "To": "2022-12-19",
+                            "Currency": 1,
+                            "priceTripleOcc": 45779,
+                            "priceDoubleOcc": "51226.89",
+                            "priceSingleOcc": 104584.41,
+                            "priceExtraBed": "34882.71",
+                            "priceWithoutBed": "18316.80",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 51226.89,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 226.3905,
+                            "CEB": 431.14050000000003,
+                            "COSTDO": 633.15,
+                            "COSTSO": 1292.634,
+                            "ACEB": 431.14050000000003,
+                            "COSTTO": 431.14050000000003
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        }
+    }
+}

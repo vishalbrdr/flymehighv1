@@ -1,0 +1,84 @@
+@mixin glass {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  margin-inline: 0.5rem;
+  padding: 0.6rem 1rem;
+}
+
+.Header {
+  //   background-color: rgba(0, 0, 0, 0.3);
+  /* From https://css.glass */
+  @include glass();
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: min-content;
+  @media screen and (max-width: 500px) {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+
+  position: relative;
+  nav {
+    @media screen and (max-width: 500px) {
+      @include glass();
+      position: absolute;
+      top: 110%;
+      background: rgba(255, 255, 255);
+      width: 100%;
+      left: 0;
+      margin: 0;
+      border-radius: 0.6rem;
+      transform: scaleY(0);
+      opacity: 0;
+      transition: all 150ms ease-in-out;
+
+      transform-origin: top;
+    }
+    ul {
+      display: flex;
+      gap: 1rem;
+      @media screen and (max-width: 500px) {
+        gap: 0;
+        flex-direction: column;
+      }
+      li {
+        @media screen and (max-width: 500px) {
+          padding: 0.5rem;
+          text-align: center;
+        }
+        a {
+          font-family: var(--font-lato);
+          transition: color 100ms ease;
+
+          @media screen and (max-width: 500px) {
+            color: gray;
+            text-align: right;
+            text-shadow: none;
+          }
+        }
+      }
+    }
+  }
+}
+.menu {
+  font-size: 2rem;
+  display: none;
+  color: gray;
+  cursor: pointer;
+
+  input {
+    display: none;
+  }
+  @media screen and (max-width: 500px) {
+    display: flex;
+    align-items: center;
+  }
+}
+nav.show {
+  transform-origin: top;
+  transform: scaleY(1);
+  opacity: 1;
+}

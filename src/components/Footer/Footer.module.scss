@@ -1,0 +1,57 @@
+.footer {
+  background: var(--color-dark-blue);
+  font-family: var(--font-lato);
+  & > div {
+    padding: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.2rem;
+    gap: 2rem;
+    justify-content: space-between;
+    align-items: start;
+    @media screen and (max-width: 500px) {
+      flex-direction: column;
+      margin: 0;
+      padding: 2rem;
+      font-size: 1rem;
+    }
+    a {
+      width: max-content;
+      strong {
+        color: var(--color-green);
+      }
+    }
+  }
+}
+
+.col {
+  display: grid;
+  gap: 1rem;
+  margin: auto;
+  @media screen and (max-width: 500px) {
+    margin: 0;
+  }
+  h3 {
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: rgba($color: rgb(0, 255, 157), $alpha: 0.5);
+  }
+  a {
+    text-transform: capitalize;
+    color: var(--color-green);
+  }
+  .item {
+    display: grid;
+    gap: 1rem;
+
+    a {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.5rem;
+
+      &::before {
+        background-color: var(--color-green);
+      }
+    }
+  }
+}

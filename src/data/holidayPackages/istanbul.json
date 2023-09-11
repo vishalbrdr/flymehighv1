@@ -1,0 +1,2351 @@
+{
+    "rows": [
+        {
+            "PkgSysId": "84",
+            "Countries": "Turkey",
+            "CountryIds": "222",
+            "TPId": "39002",
+            "GTXPkgId": "39002",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Istanbul,Central Asia,Turkey,Eurasia,Cappadocia",
+            "DestinationsId": "12905,5094",
+            "des": "Istanbul | Istanbul (2N) | Cappadocia (2N) | Istanbul (1N) | Istanbul",
+            "desSaArr": {
+                "Istanbul": 3,
+                "Cappadocia": 2
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 12905,
+                    "title": "Istanbul",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 5094,
+                    "title": "Cappadocia",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 12905,
+                    "title": "Istanbul",
+                    "nights": "1N",
+                    "CountryIds": "222"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":12905,\"title\":\"Istanbul\",\"nights\":\"2N\",\"CountryIds\":\"222\"},{\"cityId\":5094,\"title\":\"Cappadocia\",\"nights\":\"2N\",\"CountryIds\":\"222\"},{\"cityId\":12905,\"title\":\"Istanbul\",\"nights\":\"1N\",\"CountryIds\":\"222\"}]",
+            "PriceRange": "35001-40000",
+            "Duration": "5",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Family",
+                "Romantic",
+                "Leisure"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Standard"
+                },
+                {
+                    "type": "Deluxe"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "B/fast & Dinner",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Exotic Turkey (3N Istanbul + 2N Cappadocia)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/exoti_istanbul_3n_istanbul__2n_cappadocia_1659775370.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/exoti_istanbul_3n_istanbul__2n_cappadocia_1659775370.jpg",
+            "defaultCategoryId": 2,
+            "itineraryArr1": {
+                "Standard": [
+                    {
+                        "hid": 515566,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Black Bird Hotel",
+                        "star": 4,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515575,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Mustafa Cappadocia Resort",
+                        "star": 4,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 2
+                    }
+                ],
+                "Deluxe": [
+                    {
+                        "hid": 515569,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Crowne Plaza Istanbul - Old City",
+                        "star": 5,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515577,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Suhan Cappadocia Hotel",
+                        "star": 5,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 2
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Deluxe": "{\"haid\":[null,null],\"HotelCityId\":[5094,5094],\"night\":[4,4],\"MEALPLANTYPE\":[null,null],\"ROOMTYPE\":[null,null]}"
+            },
+            "Price": 38100,
+            "PriceDis": 38100.95,
+            "defaultStandard": "Standard",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Standard": {
+                        "TPId": "39002",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-07",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 37640,
+                                "priceDoubleOcc": "37639.78",
+                                "priceSingleOcc": 52864.86,
+                                "priceExtraBed": "27489.72",
+                                "priceWithoutBed": "18185.51",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 37639.78,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 225.75,
+                                "CEB": 341.25,
+                                "COSTDO": 467.25,
+                                "COSTSO": 656.25,
+                                "ACEB": 467.25,
+                                "COSTTO": 467.25
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Deluxe": {
+                        "TPId": "39003",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-07",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 42018,
+                                "priceDoubleOcc": "42017.75",
+                                "priceSingleOcc": 60692.3,
+                                "priceExtraBed": "30558.36",
+                                "priceWithoutBed": "20372.24",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 42017.75,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 252,
+                                "CEB": 378,
+                                "COSTDO": 519.75,
+                                "COSTSO": 750.75,
+                                "ACEB": 519.75,
+                                "COSTTO": 519.75
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 12905,
+            "DestinationPlacesSysId": 12905,
+            "SourcePlaces": "Istanbul",
+            "DestinationPlaces": "Istanbul",
+            "Inclusion": "<ul>\r\n\t<li>03 Nights (02+01 split) stay at the mentioned hotel or similar in Istanbul </li>\r\n\t<li>02 Nights stay at the mentioned hotel or similar in Cappadocia</li>\r\n\t<li>Daily breakfast at the hotels except on arrival day</li>\r\n\t<li>02 local dinners at the hotel in Cappadocia</li>\r\n\t<li>01 FD Istanbul Old City Tour with local lunch in Istanbul</li>\r\n\t<li>01 FD Goreme-North Cappadocia Tour with local lunch in Cappadocia</li>\r\n\t<li>All sightseeing tours on SIC basis with local English speaking guide asistance during the tours</li>\r\n\t<li>Airport – Hotel – Airport Transfers on SIC basis in Cappadoccia</li>\r\n\t<li>Airport – Hotel – Airport Return Transfer Services on SIC basis in Istanbul</li>\r\n\t<li>All VATS</li>\r\n</ul>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>Flight Tickets, Interconnecting flights OR Visa is not included in above cost</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n\t<li>Any Tips to Driver & Guide</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "Overnight in Istanbul",
+                "2": "BLUE MOSQUE, GERMAN Fountain of Wilhelm II, GRAND COVERED BAZAAR, Hagia Sophia, Hippodrome, Obelisk of Theodosius, Serpentine Column,, Sultan Ahmet Center, Topkapi Palace Museum",
+                "3": "Istanbul Airport for flight to Kayseri ASR or Nevsehir NAV",
+                "4": "Avanos, Devrent Valley, Esentepe, Goreme Open Air Museum, Uc Guzeller, Uchisar Castle",
+                "5": "Kayseri ASR or Nevsehir NAV Airport",
+                "6": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6Ijg0IiwiR1RYUGtnSWQiOiIzOTAwMiIsIlRQSWQiOiIzOTAwMiIsInBhY2thZ2UiOnsiTmFtZSI6IkV4b3RpYyBUdXJrZXkgKDNOIElzdGFuYnVsICsgMk4gQ2FwcGFkb2NpYSkiLCJUYWdsaW5lMSI6IiJ9LCJQYWNrYWdlVHlwZSI6IjEiLCJkZWZhdWx0Q2F0ZWdvcnlJZCI6MiwiZGVmYXVsdFRvdXJUeXBlIjoxLCJtcCI6MCwiQ291bnRyaWVzIjoiVHVya2V5IiwiQ291bnRyeUlkcyI6IjIyMiIsIklzRml4ZWREZXBhcnR1cmVQYWNrYWdlIjowLCJDYXRlZ29yeURhdGVBcnJheSI6W10sIm15Q3VzdG9taXplRGVzdE5pZ2h0cyI6W3siY2l0eUlkIjoxMjkwNSwidGl0bGUiOiJJc3RhbmJ1bCIsIm5pZ2h0cyI6IjJOIiwiQ291bnRyeUlkcyI6IjIyMiJ9LHsiY2l0eUlkIjo1MDk0LCJ0aXRsZSI6IkNhcHBhZG9jaWEiLCJuaWdodHMiOiIyTiIsIkNvdW50cnlJZHMiOiIyMjIifSx7ImNpdHlJZCI6MTI5MDUsInRpdGxlIjoiSXN0YW5idWwiLCJuaWdodHMiOiIxTiIsIkNvdW50cnlJZHMiOiIyMjIifV0sIkR1cmF0aW9uIjoiNSIsIkN1cnJlbmN5VHlwZSI6IklOUiJ9",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "86",
+            "Countries": "Turkey",
+            "CountryIds": "222",
+            "TPId": "39049",
+            "GTXPkgId": "39049",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Istanbul,Central Asia,Turkey,Eurasia,Cappadocia,Antalya",
+            "DestinationsId": "12905,1151,5094",
+            "des": "Istanbul | Istanbul (2N) | Cappadocia (2N) | Antalya (2N) | Antakya",
+            "desSaArr": {
+                "Istanbul": 2,
+                "Cappadocia": 2,
+                "Antalya": 2
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 12905,
+                    "title": "Istanbul",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 5094,
+                    "title": "Cappadocia",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 1151,
+                    "title": "Antalya",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":12905,\"title\":\"Istanbul\",\"nights\":\"2N\",\"CountryIds\":\"222\"},{\"cityId\":5094,\"title\":\"Cappadocia\",\"nights\":\"2N\",\"CountryIds\":\"222\"},{\"cityId\":1151,\"title\":\"Antalya\",\"nights\":\"2N\",\"CountryIds\":\"222\"}]",
+            "PriceRange": "40001-45000",
+            "Duration": "6",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Family",
+                "Romantic",
+                "Leisure"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Standard"
+                },
+                {
+                    "type": "Deluxe"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Graceful Turkey (2N Istanbul + 2N Cappadocia + 2N Antalya)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/graceful_turkey_2n_istanbul__2n_cappadocia__2n_antalya_1659790653.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/graceful_turkey_2n_istanbul__2n_cappadocia__2n_antalya_1659790653.jpg",
+            "defaultCategoryId": 2,
+            "itineraryArr1": {
+                "Standard": [
+                    {
+                        "hid": 515566,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Black Bird Hotel",
+                        "star": 4,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515575,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Mustafa Cappadocia Resort",
+                        "star": 4,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515648,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Best western khan hotel",
+                        "star": 4,
+                        "city": "Antalya",
+                        "CityId": 1151,
+                        "day": 5,
+                        "orSimilar": 1,
+                        "nights": 2
+                    }
+                ],
+                "Deluxe": [
+                    {
+                        "hid": 515569,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Crowne Plaza Istanbul - Old City",
+                        "star": 5,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515651,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Double Tree By Hilton",
+                        "star": 5,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515649,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Ramada Plaza Antalya Hotel",
+                        "star": 5,
+                        "city": "Antalya",
+                        "CityId": 1151,
+                        "day": 5,
+                        "orSimilar": 1,
+                        "nights": 2
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Deluxe": "{\"haid\":[null,null],\"HotelCityId\":[1151,1151],\"night\":[6,6],\"MEALPLANTYPE\":[null,null],\"ROOMTYPE\":[null,null]}"
+            },
+            "Price": 41525,
+            "PriceDis": 41525.82,
+            "defaultStandard": "Standard",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Standard": {
+                        "TPId": "39049",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-08",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 41023,
+                                "priceDoubleOcc": "41023.12",
+                                "priceSingleOcc": 59208.630000000005,
+                                "priceExtraBed": "30873.08",
+                                "priceWithoutBed": "20723.02",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 41023.12,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 257.25,
+                                "CEB": 383.25,
+                                "COSTDO": 509.25,
+                                "COSTSO": 735,
+                                "ACEB": 509.25,
+                                "COSTTO": 509.25
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Deluxe": {
+                        "TPId": "39050",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-08",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 47790,
+                                "priceDoubleOcc": "47789.83",
+                                "priceSingleOcc": 70204.53,
+                                "priceExtraBed": "36793.94",
+                                "priceWithoutBed": "24529.29",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 47789.83,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 304.5,
+                                "CEB": 456.75,
+                                "COSTDO": 593.25,
+                                "COSTSO": 871.5,
+                                "ACEB": 593.25,
+                                "COSTTO": 593.25
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 12905,
+            "DestinationPlacesSysId": 1149,
+            "SourcePlaces": "Istanbul",
+            "DestinationPlaces": "Antakya",
+            "Inclusion": "<ul>\r\n\t<li>03 Nights (02+01 split) stay at the mentioned hotel or similar in Istanbul </li>\r\n\t<li>02 Nights stay at the mentioned hotel or similar in Cappadocia</li>\r\n\t<li>Daily breakfast at the hotels except on arrival day</li>\r\n\t<li>02 local dinners at the hotel in Cappadocia</li>\r\n\t<li>01 FD Istanbul Old City Tour with local lunch in Istanbul</li>\r\n\t<li>01 FD Goreme-North Cappadocia Tour with local lunch in Cappadocia</li>\r\n\t<li>All sightseeing tours on SIC basis with local English speaking guide asistance during the tours</li>\r\n\t<li>Airport – Hotel – Airport Transfers on SIC basis in Cappadoccia</li>\r\n\t<li>Airport – Hotel – Airport Return Transfer Services on SIC basis in Istanbul</li>\r\n\t<li>All VATS</li>\r\n</ul>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>Flight Tickets, Interconnecting flights OR Visa is not included in above cost</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n\t<li>Any Tips to Driver & Guide</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "Istanbul IST or SAW Airport",
+                "2": "Hagia Sophia, Hippodrome, BLUE MOSQUE, Serpentine Column, Obelisk of Theodosius, GERMAN Fountain of Wilhelm II",
+                "3": "Kayseri ASR or Nevsehir NAV Airport",
+                "4": "Uc Guzeller and Devrent  Valley, Goreme Open Air Museum, Uchisar Castle, Esentepe",
+                "5": "to Kayseri ASR or Nevsehir NAV Airport",
+                "6": "-",
+                "7": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6Ijg2IiwiR1RYUGtnSWQiOiIzOTA0OSIsIlRQSWQiOiIzOTA0OSIsInBhY2thZ2UiOnsiTmFtZSI6IkdyYWNlZnVsIFR1cmtleSAoMk4gSXN0YW5idWwgKyAyTiBDYXBwYWRvY2lhICsgMk4gQW50YWx5YSkiLCJUYWdsaW5lMSI6IiJ9LCJQYWNrYWdlVHlwZSI6IjEiLCJkZWZhdWx0Q2F0ZWdvcnlJZCI6MiwiZGVmYXVsdFRvdXJUeXBlIjoxLCJtcCI6MCwiQ291bnRyaWVzIjoiVHVya2V5IiwiQ291bnRyeUlkcyI6IjIyMiIsIklzRml4ZWREZXBhcnR1cmVQYWNrYWdlIjowLCJDYXRlZ29yeURhdGVBcnJheSI6W10sIm15Q3VzdG9taXplRGVzdE5pZ2h0cyI6W3siY2l0eUlkIjoxMjkwNSwidGl0bGUiOiJJc3RhbmJ1bCIsIm5pZ2h0cyI6IjJOIiwiQ291bnRyeUlkcyI6IjIyMiJ9LHsiY2l0eUlkIjo1MDk0LCJ0aXRsZSI6IkNhcHBhZG9jaWEiLCJuaWdodHMiOiIyTiIsIkNvdW50cnlJZHMiOiIyMjIifSx7ImNpdHlJZCI6MTE1MSwidGl0bGUiOiJBbnRhbHlhIiwibmlnaHRzIjoiMk4iLCJDb3VudHJ5SWRzIjoiMjIyIn1dLCJEdXJhdGlvbiI6IjYiLCJDdXJyZW5jeVR5cGUiOiJJTlIifQ==",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "88",
+            "Countries": "Turkey",
+            "CountryIds": "222",
+            "TPId": "39058",
+            "GTXPkgId": "39058",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Cappadocia,Central Asia,Turkey,Eurasia,Kusadasi,Pamukkale,Istanbul",
+            "DestinationsId": "5094,12905,20687,14622",
+            "des": "Istanbul | Cappadocia (2N) | Kusadasi (2N) | Pamukkale (1N) | Istanbul (3N) | Istanbul",
+            "desSaArr": {
+                "Cappadocia": 2,
+                "Kusadasi": 2,
+                "Pamukkale": 1,
+                "Istanbul": 3
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 5094,
+                    "title": "Cappadocia",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 14622,
+                    "title": "Kusadasi",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 20687,
+                    "title": "Pamukkale",
+                    "nights": "1N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 12905,
+                    "title": "Istanbul",
+                    "nights": "3N",
+                    "CountryIds": "222"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":5094,\"title\":\"Cappadocia\",\"nights\":\"2N\",\"CountryIds\":\"222\"},{\"cityId\":14622,\"title\":\"Kusadasi\",\"nights\":\"2N\",\"CountryIds\":\"222\"},{\"cityId\":20687,\"title\":\"Pamukkale\",\"nights\":\"1N\",\"CountryIds\":\"222\"},{\"cityId\":12905,\"title\":\"Istanbul\",\"nights\":\"3N\",\"CountryIds\":\"222\"}]",
+            "PriceRange": "55001-60000",
+            "Duration": "8",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Family",
+                "Romantic",
+                "Leisure"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Standard"
+                },
+                {
+                    "type": "Deluxe"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Best Of Turkey (2N Cappadocia + 2N Kusadasi + 1N Pamukkale + 3N Istanbul)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/best_of_turkey_2n_cappadocia__2n_kusadasi__1n_pamukkale__2n_istanbul_1659935754.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/best_of_turkey_2n_cappadocia__2n_kusadasi__1n_pamukkale__2n_istanbul_1659935754.jpg",
+            "defaultCategoryId": 2,
+            "itineraryArr1": {
+                "Standard": [
+                    {
+                        "hid": 515575,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Mustafa Cappadocia Resort",
+                        "star": 4,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515634,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Confort ADA Class ",
+                        "star": 5,
+                        "city": "Kusadasi",
+                        "CityId": 14622,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515631,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Ninova Thermal Hotel",
+                        "star": 4,
+                        "city": "Pamukkale",
+                        "CityId": 20687,
+                        "day": 5,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515566,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Black Bird Hotel",
+                        "star": 4,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 6,
+                        "orSimilar": 1,
+                        "nights": 3
+                    }
+                ],
+                "Deluxe": [
+                    {
+                        "hid": 515577,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Suhan Cappadocia Hotel",
+                        "star": 5,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515635,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Le Bleu Hotel & Resort",
+                        "star": 5,
+                        "city": "Kusadasi",
+                        "CityId": 14622,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515632,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Pam Thermal Hotel",
+                        "star": 5,
+                        "city": "Pamukkale",
+                        "CityId": 20687,
+                        "day": 5,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515569,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Crowne Plaza Istanbul - Old City",
+                        "star": 5,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 6,
+                        "orSimilar": 1,
+                        "nights": 3
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Deluxe": "{\"haid\":[null,null],\"HotelCityId\":[12905,12905],\"night\":[8,8],\"MEALPLANTYPE\":[null,null],\"ROOMTYPE\":[null,null]}"
+            },
+            "Price": 56937,
+            "PriceDis": 56937.57,
+            "defaultStandard": "Standard",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Standard": {
+                        "TPId": "39058",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-08",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 56248,
+                                "priceDoubleOcc": "56248.21",
+                                "priceSingleOcc": 76971.23,
+                                "priceExtraBed": "42207.30",
+                                "priceWithoutBed": "28335.56",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 56248.21,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 351.75,
+                                "CEB": 523.95,
+                                "COSTDO": 698.25,
+                                "COSTSO": 955.5,
+                                "ACEB": 698.25,
+                                "COSTTO": 698.25
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Deluxe": {
+                        "TPId": "39059",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-08",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 65299,
+                                "priceDoubleOcc": "65298.67",
+                                "priceSingleOcc": 91519.64,
+                                "priceExtraBed": "49058.58",
+                                "priceWithoutBed": "32987.67",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 65298.67,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 409.5,
+                                "CEB": 609,
+                                "COSTDO": 810.6,
+                                "COSTSO": 1136.1,
+                                "ACEB": 810.6,
+                                "COSTTO": 810.6
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 12905,
+            "DestinationPlacesSysId": 12905,
+            "SourcePlaces": "Istanbul",
+            "DestinationPlaces": "Istanbul",
+            "Inclusion": "<ul>\r\n\t<li>03 Nights (02+01 split) stay at the mentioned hotel or similar in Istanbul </li>\r\n\t<li>02 Nights stay at the mentioned hotel or similar in Cappadocia</li>\r\n\t<li>Daily breakfast at the hotels except on arrival day</li>\r\n\t<li>02 local dinners at the hotel in Cappadocia</li>\r\n\t<li>01 FD Istanbul Old City Tour with local lunch in Istanbul</li>\r\n\t<li>01 FD Goreme-North Cappadocia Tour with local lunch in Cappadocia</li>\r\n\t<li>All sightseeing tours on SIC basis with local English speaking guide asistance during the tours</li>\r\n\t<li>Airport – Hotel – Airport Transfers on SIC basis in Cappadoccia</li>\r\n\t<li>Airport – Hotel – Airport Return Transfer Services on SIC basis in Istanbul</li>\r\n\t<li>All VATS</li>\r\n</ul>\r\n",
+            "Exclusions": "<p> </p>\r\n\r\n<ul>\r\n\t<li>Flight Tickets, Interconnecting flights OR Visa is not included in above cost</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n\t<li>Any Tips to Driver & Guide</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "Arrival to Cappadocia",
+                "2": "Uc Guzeller and Devrent  Valley, Goreme Open Air Museum, Uchisar Castle and Esentepe",
+                "3": "Arrival to Izmir",
+                "4": "The Temple of Hadrian, The Polio Fountain, Ephesus, Library of Celsius, House of Virgin Mary",
+                "5": "Pamukkale, Ancient City of Hierapolis",
+                "6": "Arrival to Istanbul",
+                "7": "Hagia Sophia, BLUE MOSQUE, Hippodrome, Serpentine Column, Obelisk of Theodosius, GERMAN Fountain of Wilhelm II, Topkapi Palace Museum, GRAND COVERED BAZAAR",
+                "8": "Dolmabahce Palace, Rumeli Fortress, Golden Horn, Byzantine City Walls, Spice Bazaar (Egyptian Bazaar)",
+                "9": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6Ijg4IiwiR1RYUGtnSWQiOiIzOTA1OCIsIlRQSWQiOiIzOTA1OCIsInBhY2thZ2UiOnsiTmFtZSI6IkJlc3QgT2YgVHVya2V5ICgyTiBDYXBwYWRvY2lhICsgMk4gS3VzYWRhc2kgKyAxTiBQYW11a2thbGUgKyAzTiBJc3RhbmJ1bCkiLCJUYWdsaW5lMSI6IiJ9LCJQYWNrYWdlVHlwZSI6IjEiLCJkZWZhdWx0Q2F0ZWdvcnlJZCI6MiwiZGVmYXVsdFRvdXJUeXBlIjoxLCJtcCI6MCwiQ291bnRyaWVzIjoiVHVya2V5IiwiQ291bnRyeUlkcyI6IjIyMiIsIklzRml4ZWREZXBhcnR1cmVQYWNrYWdlIjowLCJDYXRlZ29yeURhdGVBcnJheSI6W10sIm15Q3VzdG9taXplRGVzdE5pZ2h0cyI6W3siY2l0eUlkIjo1MDk0LCJ0aXRsZSI6IkNhcHBhZG9jaWEiLCJuaWdodHMiOiIyTiIsIkNvdW50cnlJZHMiOiIyMjIifSx7ImNpdHlJZCI6MTQ2MjIsInRpdGxlIjoiS3VzYWRhc2kiLCJuaWdodHMiOiIyTiIsIkNvdW50cnlJZHMiOiIyMjIifSx7ImNpdHlJZCI6MjA2ODcsInRpdGxlIjoiUGFtdWtrYWxlIiwibmlnaHRzIjoiMU4iLCJDb3VudHJ5SWRzIjoiMjIyIn0seyJjaXR5SWQiOjEyOTA1LCJ0aXRsZSI6IklzdGFuYnVsIiwibmlnaHRzIjoiM04iLCJDb3VudHJ5SWRzIjoiMjIyIn1dLCJEdXJhdGlvbiI6IjgiLCJDdXJyZW5jeVR5cGUiOiJJTlIifQ==",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "85",
+            "Countries": "Turkey",
+            "CountryIds": "222",
+            "TPId": "39033",
+            "GTXPkgId": "39033",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Cappadocia,Central Asia,Turkey,Eurasia,Pamukkale,Kusadasi,Istanbul",
+            "DestinationsId": "5094,12905,14622,20687",
+            "des": "Cappadocia | Cappadocia (2N) | Pamukkale (1N) | Kusadasi (1N) | Istanbul (2N) | Istanbul",
+            "desSaArr": {
+                "Cappadocia": 2,
+                "Pamukkale": 1,
+                "Kusadasi": 1,
+                "Istanbul": 2
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 5094,
+                    "title": "Cappadocia",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 20687,
+                    "title": "Pamukkale",
+                    "nights": "1N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 14622,
+                    "title": "Kusadasi",
+                    "nights": "1N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 12905,
+                    "title": "Istanbul",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":5094,\"title\":\"Cappadocia\",\"nights\":\"2N\",\"CountryIds\":\"222\"},{\"cityId\":20687,\"title\":\"Pamukkale\",\"nights\":\"1N\",\"CountryIds\":\"222\"},{\"cityId\":14622,\"title\":\"Kusadasi\",\"nights\":\"1N\",\"CountryIds\":\"222\"},{\"cityId\":12905,\"title\":\"Istanbul\",\"nights\":\"2N\",\"CountryIds\":\"222\"}]",
+            "PriceRange": "55001-60000",
+            "Duration": "6",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Family",
+                "Romantic",
+                "Leisure"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Standard"
+                },
+                {
+                    "type": "Deluxe"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Turkey Delight (2N Cappadocia + 1N Pamukkale +1N Kusadasi + 2N Istanbul)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/turkey_delight_2n_cappadocia__1n_pamukkale_1n_kusadasi__2n_istanbul_1659786027.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/turkey_delight_2n_cappadocia__1n_pamukkale_1n_kusadasi__2n_istanbul_1659786027.jpg",
+            "defaultCategoryId": 2,
+            "itineraryArr1": {
+                "Standard": [
+                    {
+                        "hid": 515575,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Mustafa Cappadocia Resort",
+                        "star": 4,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515631,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Ninova Thermal Hotel",
+                        "star": 4,
+                        "city": "Pamukkale",
+                        "CityId": 20687,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515634,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Confort ADA Class ",
+                        "star": 5,
+                        "city": "Kusadasi",
+                        "CityId": 14622,
+                        "day": 4,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515566,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Black Bird Hotel",
+                        "star": 4,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 5,
+                        "orSimilar": 1,
+                        "nights": 2
+                    }
+                ],
+                "Deluxe": [
+                    {
+                        "hid": 515577,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Suhan Cappadocia Hotel",
+                        "star": 5,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515632,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Pam Thermal Hotel",
+                        "star": 5,
+                        "city": "Pamukkale",
+                        "CityId": 20687,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515635,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Le Bleu Hotel & Resort",
+                        "star": 5,
+                        "city": "Kusadasi",
+                        "CityId": 14622,
+                        "day": 4,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515569,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Crowne Plaza Istanbul - Old City",
+                        "star": 5,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 5,
+                        "orSimilar": 1,
+                        "nights": 2
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Deluxe": "{\"haid\":[null,null],\"HotelCityId\":[12905,12905],\"night\":[6,6],\"MEALPLANTYPE\":[null,null],\"ROOMTYPE\":[null,null]}"
+            },
+            "Price": 58650,
+            "PriceDis": 58650,
+            "defaultStandard": "Standard",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Standard": {
+                        "TPId": "39033",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-08",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 58113,
+                                "priceDoubleOcc": "58112.68",
+                                "priceSingleOcc": 73807.35,
+                                "priceExtraBed": "43690.56",
+                                "priceWithoutBed": "29268.43",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 58112.68,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 362.25,
+                                "CEB": 540.75,
+                                "COSTDO": 719.25,
+                                "COSTSO": 913.5,
+                                "ACEB": 719.25,
+                                "COSTTO": 719.25
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Deluxe": {
+                        "TPId": "39034",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-08",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 63627,
+                                "priceDoubleOcc": "63627.02",
+                                "priceSingleOcc": 83139.31,
+                                "priceExtraBed": "47932.36",
+                                "priceWithoutBed": "31813.51",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 63627.02,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 393.75,
+                                "CEB": 593.25,
+                                "COSTDO": 787.5,
+                                "COSTSO": 1029,
+                                "ACEB": 787.5,
+                                "COSTTO": 787.5
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 5094,
+            "DestinationPlacesSysId": 12905,
+            "SourcePlaces": "Cappadocia",
+            "DestinationPlaces": "Istanbul",
+            "Inclusion": "<ul>\r\n\t<li>03 Nights (02+01 split) stay at the mentioned hotel or similar in Istanbul </li>\r\n\t<li>02 Nights stay at the mentioned hotel or similar in Cappadocia</li>\r\n\t<li>Daily breakfast at the hotels except on arrival day</li>\r\n\t<li>02 local dinners at the hotel in Cappadocia</li>\r\n\t<li>01 FD Istanbul Old City Tour with local lunch in Istanbul</li>\r\n\t<li>01 FD Goreme-North Cappadocia Tour with local lunch in Cappadocia</li>\r\n\t<li>All sightseeing tours on SIC basis with local English speaking guide asistance during the tours</li>\r\n\t<li>Airport – Hotel – Airport Transfers on SIC basis in Cappadoccia</li>\r\n\t<li>Airport – Hotel – Airport Return Transfer Services on SIC basis in Istanbul</li>\r\n\t<li>All VATS</li>\r\n</ul>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>Flight Tickets, Interconnecting flights OR Visa is not included in above cost</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n\t<li>Any Tips to Driver & Guide</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "Kayseri ASR or Nevsehir NAV Airport",
+                "2": "Devrent Valley, Esentepe, Goreme Open Air Museum, Uc Guzeller, Uchisar Castle",
+                "3": "Mausoleum of Mevlana, Pamukkale, Sultanhani Caravanserai",
+                "4": "Kusadasi, Ancient City of Hierapolis",
+                "5": "Ephesus, House of Virgin Mary, Library of Celsius, Temple of Hadrian, The Polio Fountain",
+                "6": "BLUE MOSQUE, GERMAN Fountain of Wilhelm II, GRAND COVERED BAZAAR, Hagia Sophia, Hippodrome, Obelisk of Theodosius, Serpentine Column,, Topkapi Palace Museum",
+                "7": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6Ijg1IiwiR1RYUGtnSWQiOiIzOTAzMyIsIlRQSWQiOiIzOTAzMyIsInBhY2thZ2UiOnsiTmFtZSI6IlR1cmtleSBEZWxpZ2h0ICgyTiBDYXBwYWRvY2lhICsgMU4gUGFtdWtrYWxlICsxTiBLdXNhZGFzaSArIDJOIElzdGFuYnVsKSIsIlRhZ2xpbmUxIjoiIn0sIlBhY2thZ2VUeXBlIjoiMSIsImRlZmF1bHRDYXRlZ29yeUlkIjoyLCJkZWZhdWx0VG91clR5cGUiOjEsIm1wIjowLCJDb3VudHJpZXMiOiJUdXJrZXkiLCJDb3VudHJ5SWRzIjoiMjIyIiwiSXNGaXhlZERlcGFydHVyZVBhY2thZ2UiOjAsIkNhdGVnb3J5RGF0ZUFycmF5IjpbXSwibXlDdXN0b21pemVEZXN0TmlnaHRzIjpbeyJjaXR5SWQiOjUwOTQsInRpdGxlIjoiQ2FwcGFkb2NpYSIsIm5pZ2h0cyI6IjJOIiwiQ291bnRyeUlkcyI6IjIyMiJ9LHsiY2l0eUlkIjoyMDY4NywidGl0bGUiOiJQYW11a2thbGUiLCJuaWdodHMiOiIxTiIsIkNvdW50cnlJZHMiOiIyMjIifSx7ImNpdHlJZCI6MTQ2MjIsInRpdGxlIjoiS3VzYWRhc2kiLCJuaWdodHMiOiIxTiIsIkNvdW50cnlJZHMiOiIyMjIifSx7ImNpdHlJZCI6MTI5MDUsInRpdGxlIjoiSXN0YW5idWwiLCJuaWdodHMiOiIyTiIsIkNvdW50cnlJZHMiOiIyMjIifV0sIkR1cmF0aW9uIjoiNiIsIkN1cnJlbmN5VHlwZSI6IklOUiJ9",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "87",
+            "Countries": "Turkey",
+            "CountryIds": "222",
+            "TPId": "39075",
+            "GTXPkgId": "39075",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Istanbul,Central Asia,Turkey,Eurasia,Cappadocia,Kusadasi,Pamukkale",
+            "DestinationsId": "12905,5094,20687,14622",
+            "des": "Istanbul | Istanbul (1N) | Cappadocia (2N) | Kusadasi (2N) | Pamukkale (1N) | Istanbul (3N) | Istanbul",
+            "desSaArr": {
+                "Istanbul": 4,
+                "Cappadocia": 2,
+                "Kusadasi": 2,
+                "Pamukkale": 1
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 12905,
+                    "title": "Istanbul",
+                    "nights": "1N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 5094,
+                    "title": "Cappadocia",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 14622,
+                    "title": "Kusadasi",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 20687,
+                    "title": "Pamukkale",
+                    "nights": "1N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 12905,
+                    "title": "Istanbul",
+                    "nights": "3N",
+                    "CountryIds": "222"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":12905,\"title\":\"Istanbul\",\"nights\":\"1N\",\"CountryIds\":\"222\"},{\"cityId\":5094,\"title\":\"Cappadocia\",\"nights\":\"2N\",\"CountryIds\":\"222\"},{\"cityId\":14622,\"title\":\"Kusadasi\",\"nights\":\"2N\",\"CountryIds\":\"222\"},{\"cityId\":20687,\"title\":\"Pamukkale\",\"nights\":\"1N\",\"CountryIds\":\"222\"},{\"cityId\":12905,\"title\":\"Istanbul\",\"nights\":\"3N\",\"CountryIds\":\"222\"}]",
+            "PriceRange": "65001-70000",
+            "Duration": "9",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Family",
+                "Romantic",
+                "Leisure"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Standard"
+                },
+                {
+                    "type": "Deluxe"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Mystic Turkey (4N Istabul + 2N Cappadocia + 2N Kusadasi + 1N Pamukkale)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/mystic_turkey_4n_istabul__2n_cappadocia__2n_kusadasi__1n_pamukkale_1659951585.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/mystic_turkey_4n_istabul__2n_cappadocia__2n_kusadasi__1n_pamukkale_1659951585.jpg",
+            "defaultCategoryId": 2,
+            "itineraryArr1": {
+                "Standard": [
+                    {
+                        "hid": 515566,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Black Bird Hotel",
+                        "star": 4,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515575,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Mustafa Cappadocia Resort",
+                        "star": 4,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 2,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515634,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Confort ADA Class ",
+                        "star": 5,
+                        "city": "Kusadasi",
+                        "CityId": 14622,
+                        "day": 4,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515631,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Ninova Thermal Hotel",
+                        "star": 4,
+                        "city": "Pamukkale",
+                        "CityId": 20687,
+                        "day": 6,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515566,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Black Bird Hotel",
+                        "star": 4,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 7,
+                        "orSimilar": 1,
+                        "nights": 3
+                    }
+                ],
+                "Deluxe": [
+                    {
+                        "hid": 515569,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Crowne Plaza Istanbul - Old City",
+                        "star": 5,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515577,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Suhan Cappadocia Hotel",
+                        "star": 5,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 2,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515635,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Le Bleu Hotel & Resort",
+                        "star": 5,
+                        "city": "Kusadasi",
+                        "CityId": 14622,
+                        "day": 4,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515632,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Pam Thermal Hotel",
+                        "star": 5,
+                        "city": "Pamukkale",
+                        "CityId": 20687,
+                        "day": 6,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515569,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Crowne Plaza Istanbul - Old City",
+                        "star": 5,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 7,
+                        "orSimilar": 1,
+                        "nights": 3
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Deluxe": "{\"haid\":[null,null],\"HotelCityId\":[12905,12905],\"night\":[9,9],\"MEALPLANTYPE\":[null,null],\"ROOMTYPE\":[null,null]}"
+            },
+            "Price": 65927,
+            "PriceDis": 65927.63,
+            "defaultStandard": "Standard",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Standard": {
+                        "TPId": "39075",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-08",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 65130,
+                                "priceDoubleOcc": "65129.50",
+                                "priceSingleOcc": 89235.87,
+                                "priceExtraBed": "49058.58",
+                                "priceWithoutBed": "32564.75",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 65129.5,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 404.25,
+                                "CEB": 609,
+                                "COSTDO": 808.5,
+                                "COSTSO": 1107.75,
+                                "ACEB": 808.5,
+                                "COSTTO": 808.5
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Deluxe": {
+                        "TPId": "39076",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-08",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 74232,
+                                "priceDoubleOcc": "74231.53",
+                                "priceSingleOcc": 104772.5,
+                                "priceExtraBed": "55652.44",
+                                "priceWithoutBed": "37243.02",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 74231.53,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 460.95,
+                                "CEB": 688.8,
+                                "COSTDO": 918.75,
+                                "COSTSO": 1296.75,
+                                "ACEB": 918.75,
+                                "COSTTO": 918.75
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 12905,
+            "DestinationPlacesSysId": 12905,
+            "SourcePlaces": "Istanbul",
+            "DestinationPlaces": "Istanbul",
+            "Inclusion": "<ul>\r\n\t<li>03 Nights (02+01 split) stay at the mentioned hotel or similar in Istanbul </li>\r\n\t<li>02 Nights stay at the mentioned hotel or similar in Cappadocia</li>\r\n\t<li>Daily breakfast at the hotels except on arrival day</li>\r\n\t<li>02 local dinners at the hotel in Cappadocia</li>\r\n\t<li>01 FD Istanbul Old City Tour with local lunch in Istanbul</li>\r\n\t<li>01 FD Goreme-North Cappadocia Tour with local lunch in Cappadocia</li>\r\n\t<li>All sightseeing tours on SIC basis with local English speaking guide asistance during the tours</li>\r\n\t<li>Airport – Hotel – Airport Transfers on SIC basis in Cappadoccia</li>\r\n\t<li>Airport – Hotel – Airport Return Transfer Services on SIC basis in Istanbul</li>\r\n\t<li>All VATS</li>\r\n</ul>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>Flight Tickets, Interconnecting flights OR Visa is not included in above cost</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n\t<li>Any Tips to Driver & Guide</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "Arrival to Istanbul",
+                "2": "-",
+                "3": "Avanos, Esentepe, Goreme Open Air Museum, Uc Guzeller, Uchisar Castle, Devrent valley",
+                "4": "Kayseri ASR or Nevsehir NAV Airport",
+                "5": "The Polio Fountain, The Temple of Hadrian, Ephesus, House of Virgin Mary, Library of Celsius",
+                "6": "Ancient City of Hierapolis, Pamukkale",
+                "7": "Denizli DNZ Airport",
+                "8": ". Serpentine Column, BLUE MOSQUE, GERMAN Fountain of Wilhelm II, GRAND COVERED BAZAAR, Hippodrome, Obelisk of Theodosius, Topkapi Palace Museum",
+                "9": "Byzantine City Walls, Dolmabahce Palace, Golden Horn, Rumeli Fortress, Spice Bazaar (Egyptian Bazaar)",
+                "10": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6Ijg3IiwiR1RYUGtnSWQiOiIzOTA3NSIsIlRQSWQiOiIzOTA3NSIsInBhY2thZ2UiOnsiTmFtZSI6Ik15c3RpYyBUdXJrZXkgKDROIElzdGFidWwgKyAyTiBDYXBwYWRvY2lhICsgMk4gS3VzYWRhc2kgKyAxTiBQYW11a2thbGUpIiwiVGFnbGluZTEiOiIifSwiUGFja2FnZVR5cGUiOiIxIiwiZGVmYXVsdENhdGVnb3J5SWQiOjIsImRlZmF1bHRUb3VyVHlwZSI6MSwibXAiOjAsIkNvdW50cmllcyI6IlR1cmtleSIsIkNvdW50cnlJZHMiOiIyMjIiLCJJc0ZpeGVkRGVwYXJ0dXJlUGFja2FnZSI6MCwiQ2F0ZWdvcnlEYXRlQXJyYXkiOltdLCJteUN1c3RvbWl6ZURlc3ROaWdodHMiOlt7ImNpdHlJZCI6MTI5MDUsInRpdGxlIjoiSXN0YW5idWwiLCJuaWdodHMiOiIxTiIsIkNvdW50cnlJZHMiOiIyMjIifSx7ImNpdHlJZCI6NTA5NCwidGl0bGUiOiJDYXBwYWRvY2lhIiwibmlnaHRzIjoiMk4iLCJDb3VudHJ5SWRzIjoiMjIyIn0seyJjaXR5SWQiOjE0NjIyLCJ0aXRsZSI6Ikt1c2FkYXNpIiwibmlnaHRzIjoiMk4iLCJDb3VudHJ5SWRzIjoiMjIyIn0seyJjaXR5SWQiOjIwNjg3LCJ0aXRsZSI6IlBhbXVra2FsZSIsIm5pZ2h0cyI6IjFOIiwiQ291bnRyeUlkcyI6IjIyMiJ9LHsiY2l0eUlkIjoxMjkwNSwidGl0bGUiOiJJc3RhbmJ1bCIsIm5pZ2h0cyI6IjNOIiwiQ291bnRyeUlkcyI6IjIyMiJ9XSwiRHVyYXRpb24iOiI5IiwiQ3VycmVuY3lUeXBlIjoiSU5SIn0=",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        },
+        {
+            "PkgSysId": "33",
+            "Countries": "Turkey",
+            "CountryIds": "222",
+            "TPId": "37154",
+            "GTXPkgId": "37153",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Istanbul,Central Asia,Turkey,Eurasia,Antalya,Cappadocia",
+            "DestinationsId": "12905,1151,5094",
+            "des": "Istanbul | Istanbul (2N) | Antalya (3N) | Cappadocia (2N) | Istanbul",
+            "desSaArr": {
+                "Istanbul": 2,
+                "Antalya": 3,
+                "Cappadocia": 2
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 12905,
+                    "title": "Istanbul",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 1151,
+                    "title": "Antalya",
+                    "nights": "3N",
+                    "CountryIds": "222"
+                },
+                {
+                    "cityId": 5094,
+                    "title": "Cappadocia",
+                    "nights": "2N",
+                    "CountryIds": "222"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":12905,\"title\":\"Istanbul\",\"nights\":\"2N\",\"CountryIds\":\"222\"},{\"cityId\":1151,\"title\":\"Antalya\",\"nights\":\"3N\",\"CountryIds\":\"222\"},{\"cityId\":5094,\"title\":\"Cappadocia\",\"nights\":\"2N\",\"CountryIds\":\"222\"}]",
+            "PriceRange": "70001-75000",
+            "Duration": "7",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Beach",
+                "Family",
+                "Heritage",
+                "Culture",
+                "Romantic"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Deluxe"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Intercity Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Trending Turkey (2N Istanbul + 3N Antalya + 2N Cappadocia)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/trending_turkey_2n_istanbul__3n_antalya__2n_cappadocia_1656600601.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/trending_turkey_2n_istanbul__3n_antalya__2n_cappadocia_1656600601.jpg",
+            "defaultCategoryId": 3,
+            "itineraryArr1": {
+                "Deluxe": [
+                    {
+                        "hid": 512561,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Clarion Hotel Golden Horn",
+                        "star": 4,
+                        "city": "Istanbul",
+                        "CityId": 12905,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 511860,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Selife Lounge  Arapsuyu",
+                        "star": 3,
+                        "city": "Antalya",
+                        "CityId": 1151,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 3
+                    },
+                    {
+                        "hid": 511861,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Cappadocia Inn Cave Hotel",
+                        "star": 4,
+                        "city": "Cappadocia",
+                        "CityId": 5094,
+                        "day": 6,
+                        "orSimilar": 1,
+                        "nights": 2
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Deluxe": "{\"haid\":[null],\"HotelCityId\":[5094],\"night\":[7],\"MEALPLANTYPE\":[null],\"ROOMTYPE\":[null]}"
+            },
+            "Price": 70379,
+            "PriceDis": 70379.86,
+            "defaultStandard": "Deluxe",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Deluxe": {
+                        "TPId": "37154",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-12-15",
+                                "Currency": 1,
+                                "priceTripleOcc": 66603,
+                                "priceDoubleOcc": "68778.29",
+                                "priceSingleOcc": 152450.18,
+                                "priceExtraBed": "62251.88",
+                                "priceWithoutBed": "20917.97",
+                                "Tax": "Excluded",
+                                "PAX": 12,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 68778.29,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 262.5,
+                                "CEB": 781.2,
+                                "COSTDO": 863.1,
+                                "COSTSO": 1913.1,
+                                "ACEB": 781.2,
+                                "COSTTO": 781.2
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-12-15",
+                                "Currency": 1,
+                                "priceTripleOcc": 66603,
+                                "priceDoubleOcc": "68778.29",
+                                "priceSingleOcc": 152450.18,
+                                "priceExtraBed": "62251.88",
+                                "priceWithoutBed": "20917.97",
+                                "Tax": "Excluded",
+                                "PAX": 10,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 68778.29,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 262.5,
+                                "CEB": 781.2,
+                                "COSTDO": 863.1,
+                                "COSTSO": 1913.1,
+                                "ACEB": 781.2,
+                                "COSTTO": 781.2
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-12-15",
+                                "Currency": 1,
+                                "priceTripleOcc": 66603,
+                                "priceDoubleOcc": "68778.29",
+                                "priceSingleOcc": 152450.18,
+                                "priceExtraBed": "62251.88",
+                                "priceWithoutBed": "20917.97",
+                                "Tax": "Excluded",
+                                "PAX": 8,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 68778.29,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 262.5,
+                                "CEB": 781.2,
+                                "COSTDO": 863.1,
+                                "COSTSO": 1913.1,
+                                "ACEB": 781.2,
+                                "COSTTO": 781.2
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-12-15",
+                                "Currency": 1,
+                                "priceTripleOcc": 66603,
+                                "priceDoubleOcc": "68778.29",
+                                "priceSingleOcc": 152450.18,
+                                "priceExtraBed": "62251.88",
+                                "priceWithoutBed": "20917.97",
+                                "Tax": "Excluded",
+                                "PAX": 6,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 68778.29,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 262.5,
+                                "CEB": 781.2,
+                                "COSTDO": 863.1,
+                                "COSTSO": 1913.1,
+                                "ACEB": 781.2,
+                                "COSTTO": 781.2
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-12-15",
+                                "Currency": 1,
+                                "priceTripleOcc": 66603,
+                                "priceDoubleOcc": "68778.29",
+                                "priceSingleOcc": 152450.18,
+                                "priceExtraBed": "62251.88",
+                                "priceWithoutBed": "20917.97",
+                                "Tax": "Excluded",
+                                "PAX": 4,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 68778.29,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 262.5,
+                                "CEB": 781.2,
+                                "COSTDO": 863.1,
+                                "COSTSO": 1913.1,
+                                "ACEB": 781.2,
+                                "COSTTO": 781.2
+                            },
+                            {
+                                "From": "2022-07-01",
+                                "To": "2022-12-15",
+                                "Currency": 1,
+                                "priceTripleOcc": 66603,
+                                "priceDoubleOcc": "68778.29",
+                                "priceSingleOcc": 152450.18,
+                                "priceExtraBed": "62251.88",
+                                "priceWithoutBed": "20917.97",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 68778.29,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 262.5,
+                                "CEB": 781.2,
+                                "COSTDO": 863.1,
+                                "COSTSO": 1913.1,
+                                "ACEB": 781.2,
+                                "COSTTO": 781.2
+                            }
+                        ],
+                        "GroupSize": 12
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 12,
+            "SourcePlaceSysId": 12905,
+            "DestinationPlacesSysId": 12905,
+            "SourcePlaces": "Istanbul",
+            "DestinationPlaces": "Istanbul",
+            "Inclusion": "<ul>\r\n\t<li>2 nights hotel in Istanbul with BB</li>\r\n\t<li>3 nights hotel in Antalya  HB</li>\r\n\t<li>2 nights hotel in Cappadocia  with BB</li>\r\n\t<li>Domestic flight from Istanbul to Antalya</li>\r\n\t<li>Domestic flight from Antalya to Kayseri</li>\r\n\t<li>Domestic flight from Kayseri to Istanbul</li>\r\n\t<li>Meals plan as mentioned above</li>\r\n\t<li>Guided Istanbul City tour</li>\r\n\t<li>Guided Antalya City tour</li>\r\n\t<li>Guided Pamukkale tour</li>\r\n\t<li>Visit Theam park Land of legend</li>\r\n\t<li>Guided Kaymakli Underground city</li>\r\n\t<li>All enterance fees mentioned in the itinery</li>\r\n\t<li>Transportation in a fully air - conditioned, non - smoking coach</li>\r\n\t<li>Professional English - speaking tour guides</li>\r\n\t<li>All transfers specified in the package</li>\r\n\t<li>All taxes included</li>\r\n</ul>\r\n\r\n<p> </p>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>Flight Tickets, Interconnecting flights OR Visa is not included in above cost</li>\r\n\t<li>Tourism Dhiram Fees or Ok to Board</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "Bosphorus Cruise",
+                "2": "BLUE MOSQUE, GRAND COVERED BAZAAR, Hippodrome, Istanbul City tour, St Sophia , TopkapÄ± Palace",
+                "3": "walking tour of Kaleici",
+                "4": "Koprulu Canyon",
+                "5": "The land of legends",
+                "6": "-",
+                "7": "Cavusin, Fairy Chimneys, Red Valley",
+                "8": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjMzIiwiR1RYUGtnSWQiOiIzNzE1MyIsIlRQSWQiOiIzNzE1NCIsInBhY2thZ2UiOnsiTmFtZSI6IlRyZW5kaW5nIFR1cmtleSAoMk4gSXN0YW5idWwgKyAzTiBBbnRhbHlhICsgMk4gQ2FwcGFkb2NpYSkiLCJUYWdsaW5lMSI6IiJ9LCJQYWNrYWdlVHlwZSI6IjEiLCJkZWZhdWx0Q2F0ZWdvcnlJZCI6MywiZGVmYXVsdFRvdXJUeXBlIjoxLCJtcCI6MCwiQ291bnRyaWVzIjoiVHVya2V5IiwiQ291bnRyeUlkcyI6IjIyMiIsIklzRml4ZWREZXBhcnR1cmVQYWNrYWdlIjowLCJDYXRlZ29yeURhdGVBcnJheSI6W10sIm15Q3VzdG9taXplRGVzdE5pZ2h0cyI6W3siY2l0eUlkIjoxMjkwNSwidGl0bGUiOiJJc3RhbmJ1bCIsIm5pZ2h0cyI6IjJOIiwiQ291bnRyeUlkcyI6IjIyMiJ9LHsiY2l0eUlkIjoxMTUxLCJ0aXRsZSI6IkFudGFseWEiLCJuaWdodHMiOiIzTiIsIkNvdW50cnlJZHMiOiIyMjIifSx7ImNpdHlJZCI6NTA5NCwidGl0bGUiOiJDYXBwYWRvY2lhIiwibmlnaHRzIjoiMk4iLCJDb3VudHJ5SWRzIjoiMjIyIn1dLCJEdXJhdGlvbiI6IjciLCJDdXJyZW5jeVR5cGUiOiJJTlIifQ==",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        }
+    ],
+    "filterCat": [
+        "Adventure",
+        "Beach",
+        "Culture",
+        "Family",
+        "Heritage",
+        "Honeymoon",
+        "Leisure",
+        "Romantic"
+    ],
+    "filterDest": [
+        "Antalya",
+        "Cappadocia",
+        "Central Asia",
+        "Eurasia",
+        "Istanbul",
+        "Kusadasi",
+        "Pamukkale",
+        "Turkey"
+    ],
+    "filterNight": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    "filterPrice": [
+        {
+            "value": "35001-40000",
+            "count": 1
+        },
+        {
+            "value": "40001-45000",
+            "count": 1
+        },
+        {
+            "value": "55001-60000",
+            "count": 2
+        },
+        {
+            "value": "65001-70000",
+            "count": 1
+        },
+        {
+            "value": "70001-75000",
+            "count": 1
+        }
+    ],
+    "PackagePriceRangeCountArr": {
+        "35001-40000": 1,
+        "40001-45000": 1,
+        "55001-60000": 2,
+        "65001-70000": 1,
+        "70001-75000": 1
+    },
+    "fixedInventoryNewDestinations": [],
+    "imgIndex": [
+        1,
+        2,
+        3,
+        1,
+        2,
+        3
+    ],
+    "MyMparr": {
+        "33": {
+            "P": {
+                "Deluxe": {
+                    "TPId": "37154",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-12-15",
+                            "Currency": 1,
+                            "priceTripleOcc": 66603,
+                            "priceDoubleOcc": "68778.29",
+                            "priceSingleOcc": 152450.18,
+                            "priceExtraBed": "62251.88",
+                            "priceWithoutBed": "20917.97",
+                            "Tax": "Excluded",
+                            "PAX": 12,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 68778.29,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 262.5,
+                            "CEB": 781.2,
+                            "COSTDO": 863.1,
+                            "COSTSO": 1913.1,
+                            "ACEB": 781.2,
+                            "COSTTO": 781.2
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-12-15",
+                            "Currency": 1,
+                            "priceTripleOcc": 66603,
+                            "priceDoubleOcc": "68778.29",
+                            "priceSingleOcc": 152450.18,
+                            "priceExtraBed": "62251.88",
+                            "priceWithoutBed": "20917.97",
+                            "Tax": "Excluded",
+                            "PAX": 10,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 68778.29,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 262.5,
+                            "CEB": 781.2,
+                            "COSTDO": 863.1,
+                            "COSTSO": 1913.1,
+                            "ACEB": 781.2,
+                            "COSTTO": 781.2
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-12-15",
+                            "Currency": 1,
+                            "priceTripleOcc": 66603,
+                            "priceDoubleOcc": "68778.29",
+                            "priceSingleOcc": 152450.18,
+                            "priceExtraBed": "62251.88",
+                            "priceWithoutBed": "20917.97",
+                            "Tax": "Excluded",
+                            "PAX": 8,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 68778.29,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 262.5,
+                            "CEB": 781.2,
+                            "COSTDO": 863.1,
+                            "COSTSO": 1913.1,
+                            "ACEB": 781.2,
+                            "COSTTO": 781.2
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-12-15",
+                            "Currency": 1,
+                            "priceTripleOcc": 66603,
+                            "priceDoubleOcc": "68778.29",
+                            "priceSingleOcc": 152450.18,
+                            "priceExtraBed": "62251.88",
+                            "priceWithoutBed": "20917.97",
+                            "Tax": "Excluded",
+                            "PAX": 6,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 68778.29,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 262.5,
+                            "CEB": 781.2,
+                            "COSTDO": 863.1,
+                            "COSTSO": 1913.1,
+                            "ACEB": 781.2,
+                            "COSTTO": 781.2
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-12-15",
+                            "Currency": 1,
+                            "priceTripleOcc": 66603,
+                            "priceDoubleOcc": "68778.29",
+                            "priceSingleOcc": 152450.18,
+                            "priceExtraBed": "62251.88",
+                            "priceWithoutBed": "20917.97",
+                            "Tax": "Excluded",
+                            "PAX": 4,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 68778.29,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 262.5,
+                            "CEB": 781.2,
+                            "COSTDO": 863.1,
+                            "COSTSO": 1913.1,
+                            "ACEB": 781.2,
+                            "COSTTO": 781.2
+                        },
+                        {
+                            "From": "2022-07-01",
+                            "To": "2022-12-15",
+                            "Currency": 1,
+                            "priceTripleOcc": 66603,
+                            "priceDoubleOcc": "68778.29",
+                            "priceSingleOcc": 152450.18,
+                            "priceExtraBed": "62251.88",
+                            "priceWithoutBed": "20917.97",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 68778.29,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 262.5,
+                            "CEB": 781.2,
+                            "COSTDO": 863.1,
+                            "COSTSO": 1913.1,
+                            "ACEB": 781.2,
+                            "COSTTO": 781.2
+                        }
+                    ],
+                    "GroupSize": 12
+                }
+            }
+        },
+        "84": {
+            "P": {
+                "Standard": {
+                    "TPId": "39002",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-07",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 37640,
+                            "priceDoubleOcc": "37639.78",
+                            "priceSingleOcc": 52864.86,
+                            "priceExtraBed": "27489.72",
+                            "priceWithoutBed": "18185.51",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 37639.78,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 225.75,
+                            "CEB": 341.25,
+                            "COSTDO": 467.25,
+                            "COSTSO": 656.25,
+                            "ACEB": 467.25,
+                            "COSTTO": 467.25
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Deluxe": {
+                    "TPId": "39003",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-07",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 42018,
+                            "priceDoubleOcc": "42017.75",
+                            "priceSingleOcc": 60692.3,
+                            "priceExtraBed": "30558.36",
+                            "priceWithoutBed": "20372.24",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 42017.75,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 252,
+                            "CEB": 378,
+                            "COSTDO": 519.75,
+                            "COSTSO": 750.75,
+                            "ACEB": 519.75,
+                            "COSTTO": 519.75
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        },
+        "85": {
+            "P": {
+                "Standard": {
+                    "TPId": "39033",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-08",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 58113,
+                            "priceDoubleOcc": "58112.68",
+                            "priceSingleOcc": 73807.35,
+                            "priceExtraBed": "43690.56",
+                            "priceWithoutBed": "29268.43",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 58112.68,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 362.25,
+                            "CEB": 540.75,
+                            "COSTDO": 719.25,
+                            "COSTSO": 913.5,
+                            "ACEB": 719.25,
+                            "COSTTO": 719.25
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Deluxe": {
+                    "TPId": "39034",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-08",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 63627,
+                            "priceDoubleOcc": "63627.02",
+                            "priceSingleOcc": 83139.31,
+                            "priceExtraBed": "47932.36",
+                            "priceWithoutBed": "31813.51",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 63627.02,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 393.75,
+                            "CEB": 593.25,
+                            "COSTDO": 787.5,
+                            "COSTSO": 1029,
+                            "ACEB": 787.5,
+                            "COSTTO": 787.5
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        },
+        "86": {
+            "P": {
+                "Standard": {
+                    "TPId": "39049",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-08",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 41023,
+                            "priceDoubleOcc": "41023.12",
+                            "priceSingleOcc": 59208.630000000005,
+                            "priceExtraBed": "30873.08",
+                            "priceWithoutBed": "20723.02",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 41023.12,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 257.25,
+                            "CEB": 383.25,
+                            "COSTDO": 509.25,
+                            "COSTSO": 735,
+                            "ACEB": 509.25,
+                            "COSTTO": 509.25
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Deluxe": {
+                    "TPId": "39050",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-08",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 47790,
+                            "priceDoubleOcc": "47789.83",
+                            "priceSingleOcc": 70204.53,
+                            "priceExtraBed": "36793.94",
+                            "priceWithoutBed": "24529.29",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 47789.83,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 304.5,
+                            "CEB": 456.75,
+                            "COSTDO": 593.25,
+                            "COSTSO": 871.5,
+                            "ACEB": 593.25,
+                            "COSTTO": 593.25
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        },
+        "87": {
+            "P": {
+                "Standard": {
+                    "TPId": "39075",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-08",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 65130,
+                            "priceDoubleOcc": "65129.50",
+                            "priceSingleOcc": 89235.87,
+                            "priceExtraBed": "49058.58",
+                            "priceWithoutBed": "32564.75",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 65129.5,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 404.25,
+                            "CEB": 609,
+                            "COSTDO": 808.5,
+                            "COSTSO": 1107.75,
+                            "ACEB": 808.5,
+                            "COSTTO": 808.5
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Deluxe": {
+                    "TPId": "39076",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-08",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 74232,
+                            "priceDoubleOcc": "74231.53",
+                            "priceSingleOcc": 104772.5,
+                            "priceExtraBed": "55652.44",
+                            "priceWithoutBed": "37243.02",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 74231.53,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 460.95,
+                            "CEB": 688.8,
+                            "COSTDO": 918.75,
+                            "COSTSO": 1296.75,
+                            "ACEB": 918.75,
+                            "COSTTO": 918.75
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        },
+        "88": {
+            "P": {
+                "Standard": {
+                    "TPId": "39058",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-08",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 56248,
+                            "priceDoubleOcc": "56248.21",
+                            "priceSingleOcc": 76971.23,
+                            "priceExtraBed": "42207.30",
+                            "priceWithoutBed": "28335.56",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 56248.21,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 351.75,
+                            "CEB": 523.95,
+                            "COSTDO": 698.25,
+                            "COSTSO": 955.5,
+                            "ACEB": 698.25,
+                            "COSTTO": 698.25
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Deluxe": {
+                    "TPId": "39059",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-08",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 65299,
+                            "priceDoubleOcc": "65298.67",
+                            "priceSingleOcc": 91519.64,
+                            "priceExtraBed": "49058.58",
+                            "priceWithoutBed": "32987.67",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 65298.67,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 409.5,
+                            "CEB": 609,
+                            "COSTDO": 810.6,
+                            "COSTSO": 1136.1,
+                            "ACEB": 810.6,
+                            "COSTTO": 810.6
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        }
+    }
+}

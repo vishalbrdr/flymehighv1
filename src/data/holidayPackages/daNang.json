@@ -1,0 +1,579 @@
+{
+    "rows": [
+        {
+            "PkgSysId": "92",
+            "Countries": "Vietnam",
+            "CountryIds": "236",
+            "TPId": "39279",
+            "GTXPkgId": "39279",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Hanoi,South East Asia,Vietnam,Orient,Halong,Da Nang,Ho Chi Minh City",
+            "DestinationsId": "11487,31115,30741,11405",
+            "des": "Hanoi | Hanoi (1N) | Halong (1N) | Hanoi (1N) | Da Nang (2N) | Ho Chi Minh City (2N) | Ho Chi Minh City",
+            "desSaArr": {
+                "Hanoi": 2,
+                "Halong": 1,
+                "Da Nang": 2,
+                "Ho Chi Minh City": 2
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 11487,
+                    "title": "Hanoi",
+                    "nights": "1N",
+                    "CountryIds": "236"
+                },
+                {
+                    "cityId": 11405,
+                    "title": "Halong",
+                    "nights": "1N",
+                    "CountryIds": "236"
+                },
+                {
+                    "cityId": 11487,
+                    "title": "Hanoi",
+                    "nights": "1N",
+                    "CountryIds": "236"
+                },
+                {
+                    "cityId": 30741,
+                    "title": "Da Nang",
+                    "nights": "2N",
+                    "CountryIds": "236"
+                },
+                {
+                    "cityId": 31115,
+                    "title": "Ho Chi Minh City",
+                    "nights": "2N",
+                    "CountryIds": "236"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":11487,\"title\":\"Hanoi\",\"nights\":\"1N\",\"CountryIds\":\"236\"},{\"cityId\":11405,\"title\":\"Halong\",\"nights\":\"1N\",\"CountryIds\":\"236\"},{\"cityId\":11487,\"title\":\"Hanoi\",\"nights\":\"1N\",\"CountryIds\":\"236\"},{\"cityId\":30741,\"title\":\"Da Nang\",\"nights\":\"2N\",\"CountryIds\":\"236\"},{\"cityId\":31115,\"title\":\"Ho Chi Minh City\",\"nights\":\"2N\",\"CountryIds\":\"236\"}]",
+            "PriceRange": "55001-60000",
+            "Duration": "7",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Beach",
+                "Family",
+                "Romantic",
+                "Leisure"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Standard"
+                },
+                {
+                    "type": "Deluxe"
+                },
+                {
+                    "type": "Luxury"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers",
+                "Sightseeing"
+            ],
+            "package": {
+                "Name": "Discover Vietnam (2N Hanoi + 1N HaLong Bay + 2N Da Nang + 2N Ho Chi Minh)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/discover_vietnam_2n_hanoi__1n_halong_bay__2n_da_nang__2n_ho_chi_minh_1660037139.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/discover_vietnam_2n_hanoi__1n_halong_bay__2n_da_nang__2n_ho_chi_minh_1660037139.jpg",
+            "defaultCategoryId": 2,
+            "itineraryArr1": {
+                "Standard": [
+                    {
+                        "hid": 512517,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "La Dolce Vita",
+                        "star": 3,
+                        "city": "Hanoi",
+                        "CityId": 11487,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515816,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Syrena Cruises",
+                        "star": 2,
+                        "city": "Halong",
+                        "CityId": 11405,
+                        "day": 2,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 512517,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "La Dolce Vita",
+                        "star": 3,
+                        "city": "Hanoi",
+                        "CityId": 11487,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515976,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Muong Thanh Grand",
+                        "star": 4,
+                        "city": "Da Nang",
+                        "CityId": 30741,
+                        "day": 4,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 512534,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Le Duy Grand Hotel",
+                        "star": 3,
+                        "city": "Ho Chi Minh City",
+                        "CityId": 31115,
+                        "day": 6,
+                        "orSimilar": 1,
+                        "nights": 2
+                    }
+                ],
+                "Deluxe": [
+                    {
+                        "hid": 512519,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "May De Ville Old Quarter Hanoi Hotel",
+                        "star": 3,
+                        "city": "Hanoi",
+                        "CityId": 11487,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515826,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Bhaya Cruises",
+                        "star": 2,
+                        "city": "Halong",
+                        "CityId": 11405,
+                        "day": 2,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 512519,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "May De Ville Old Quarter Hanoi Hotel",
+                        "star": 3,
+                        "city": "Hanoi",
+                        "CityId": 11487,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515972,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Brilliant Hotel",
+                        "star": 3,
+                        "city": "Da Nang",
+                        "CityId": 30741,
+                        "day": 4,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 512537,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Golden Central Saigon Hotel",
+                        "star": 4,
+                        "city": "Ho Chi Minh City",
+                        "CityId": 31115,
+                        "day": 6,
+                        "orSimilar": 1,
+                        "nights": 2
+                    }
+                ],
+                "Luxury": [
+                    {
+                        "hid": 515809,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Apricot Hotel",
+                        "star": 5,
+                        "city": "Hanoi",
+                        "CityId": 11487,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515826,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Bhaya Cruises",
+                        "star": 2,
+                        "city": "Halong",
+                        "CityId": 11405,
+                        "day": 2,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515809,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Apricot Hotel",
+                        "star": 5,
+                        "city": "Hanoi",
+                        "CityId": 11487,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 1
+                    },
+                    {
+                        "hid": 515975,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Melia Danang Beach Resort",
+                        "star": 4,
+                        "city": "Da Nang",
+                        "CityId": 30741,
+                        "day": 4,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515919,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Hotel Majestic",
+                        "star": 5,
+                        "city": "Ho Chi Minh City",
+                        "CityId": 31115,
+                        "day": 6,
+                        "orSimilar": 1,
+                        "nights": 2
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Luxury": "{\"haid\":[null,null,null],\"HotelCityId\":[31115,31115,31115],\"night\":[7,7,7],\"MEALPLANTYPE\":[null,null,null],\"ROOMTYPE\":[null,null,null]}"
+            },
+            "Price": 58650,
+            "PriceDis": 58650,
+            "defaultStandard": "Standard",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Standard": {
+                        "TPId": "39279",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-09",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 58113,
+                                "priceDoubleOcc": "58112.68",
+                                "priceSingleOcc": 116225.36,
+                                "priceExtraBed": "37836.87",
+                                "priceWithoutBed": "29268.44",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 58112.68,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 362.25,
+                                "CEB": 468.3,
+                                "COSTDO": 719.25,
+                                "COSTSO": 1438.5,
+                                "ACEB": 719.25,
+                                "COSTTO": 719.25
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Deluxe": {
+                        "TPId": "39280",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-09",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 63203,
+                                "priceDoubleOcc": "63202.84",
+                                "priceSingleOcc": 126405.68,
+                                "priceExtraBed": "41145.48",
+                                "priceWithoutBed": "31813.51",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 63202.84,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 393.75,
+                                "CEB": 509.25,
+                                "COSTDO": 782.25,
+                                "COSTSO": 1564.5,
+                                "ACEB": 782.25,
+                                "COSTTO": 782.25
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Luxury": {
+                        "TPId": "39281",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-09",
+                                "To": "2022-09-30",
+                                "Currency": 1,
+                                "priceTripleOcc": 94423,
+                                "priceDoubleOcc": "94422.50",
+                                "priceSingleOcc": 188845,
+                                "priceExtraBed": "61506.12",
+                                "priceWithoutBed": "47253.66",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 94422.5,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 584.85,
+                                "CEB": 761.25,
+                                "COSTDO": 1168.65,
+                                "COSTSO": 2337.3,
+                                "ACEB": 1168.65,
+                                "COSTTO": 1168.65
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 11487,
+            "DestinationPlacesSysId": 31115,
+            "SourcePlaces": "Hanoi",
+            "DestinationPlaces": "Ho Chi Minh City",
+            "Inclusion": "<ul>\r\n\t<li>Accommodation in twin/double room with daily breakfast at the below indicated room types (see hotel category list below) (check in and check out around noontime). Boat trip as program</li>\r\n\t<li>All transfers and transportation with air-con vehicles (types of vehicles depending on the number of pax):</li>\r\n\t<li>Local ENGLISH speaking guides</li>\r\n\t<li>All entrance fees as program</li>\r\n\t<li>02 bottles of mineral water per person per day on bus on days of transfer and sightseeing only</li>\r\n</ul>\r\n",
+            "Exclusions": "<ul>\r\n\t<li>International Flight Tickets not included in above cost</li>\r\n\t<li>Hanoi to Da Nang & Da Nang - Saigon connecting flight charges not included in above cost</li>\r\n\t<li>Monastery Entrance fees</li>\r\n\t<li>Any kind of personal expenses or optional tours / extra meals ordered , tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Sightseeing as per the itinerary. Vehicle not at disposal basis.</li>\r\n\t<li>Services of vehicle on leisure days</li>\r\n\t<li>Tips, insurance, laundry, phone calls, Mineral water</li>\r\n\t<li>Optional excursions and activities</li>\r\n\t<li>Any kind of drinks (alcoholic, mineral, aerated)</li>\r\n\t<li>Guide fee, camera fee</li>\r\n\t<li>Anything not specifically mentioned under the head “package includes”.</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n\t<li>Any Tips to Driver & Guide&#39;</li>\r\n\t<li>Early check-in or late check-out</li>\r\n\t<li>Peak season surcharges if any</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "Ho Chi Minh’s house-on-stilt, One Pillar Pagoda, Presidential Palace, Temple of Literature",
+                "2": "Quaint Fishing Towns, Rock Formations",
+                "3": "Surprise Cave, Tai Chi, Trinh Nu and the Me Cung Caves",
+                "4": "Da Nang",
+                "5": "Hoi An ancient town, Japanese Bridge",
+                "6": "Arrival at Tan Son Nhat",
+                "7": "Ben Thanh Market, Cathedral of Notre Dame, Cu Chi Tunnels, Reunification Palace",
+                "8": "-"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjkyIiwiR1RYUGtnSWQiOiIzOTI3OSIsIlRQSWQiOiIzOTI3OSIsInBhY2thZ2UiOnsiTmFtZSI6IkRpc2NvdmVyIFZpZXRuYW0gKDJOIEhhbm9pICsgMU4gSGFMb25nIEJheSArIDJOIERhIE5hbmcgKyAyTiBIbyBDaGkgTWluaCkiLCJUYWdsaW5lMSI6IiJ9LCJQYWNrYWdlVHlwZSI6IjEiLCJkZWZhdWx0Q2F0ZWdvcnlJZCI6MiwiZGVmYXVsdFRvdXJUeXBlIjoxLCJtcCI6MCwiQ291bnRyaWVzIjoiVmlldG5hbSIsIkNvdW50cnlJZHMiOiIyMzYiLCJJc0ZpeGVkRGVwYXJ0dXJlUGFja2FnZSI6MCwiQ2F0ZWdvcnlEYXRlQXJyYXkiOltdLCJteUN1c3RvbWl6ZURlc3ROaWdodHMiOlt7ImNpdHlJZCI6MTE0ODcsInRpdGxlIjoiSGFub2kiLCJuaWdodHMiOiIxTiIsIkNvdW50cnlJZHMiOiIyMzYifSx7ImNpdHlJZCI6MTE0MDUsInRpdGxlIjoiSGFsb25nIiwibmlnaHRzIjoiMU4iLCJDb3VudHJ5SWRzIjoiMjM2In0seyJjaXR5SWQiOjExNDg3LCJ0aXRsZSI6Ikhhbm9pIiwibmlnaHRzIjoiMU4iLCJDb3VudHJ5SWRzIjoiMjM2In0seyJjaXR5SWQiOjMwNzQxLCJ0aXRsZSI6IkRhIE5hbmciLCJuaWdodHMiOiIyTiIsIkNvdW50cnlJZHMiOiIyMzYifSx7ImNpdHlJZCI6MzExMTUsInRpdGxlIjoiSG8gQ2hpIE1pbmggQ2l0eSIsIm5pZ2h0cyI6IjJOIiwiQ291bnRyeUlkcyI6IjIzNiJ9XSwiRHVyYXRpb24iOiI3IiwiQ3VycmVuY3lUeXBlIjoiSU5SIn0=",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        }
+    ],
+    "filterCat": [
+        "Adventure",
+        "Beach",
+        "Family",
+        "Honeymoon",
+        "Leisure",
+        "Romantic"
+    ],
+    "filterDest": [
+        "Da Nang",
+        "Halong",
+        "Hanoi",
+        "Ho Chi Minh City",
+        "Orient",
+        "South East Asia",
+        "Vietnam"
+    ],
+    "filterNight": [
+        "7"
+    ],
+    "filterPrice": [
+        {
+            "value": "55001-60000",
+            "count": 1
+        }
+    ],
+    "PackagePriceRangeCountArr": {
+        "55001-60000": 1
+    },
+    "fixedInventoryNewDestinations": [],
+    "imgIndex": [
+        1
+    ],
+    "MyMparr": {
+        "92": {
+            "P": {
+                "Standard": {
+                    "TPId": "39279",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-09",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 58113,
+                            "priceDoubleOcc": "58112.68",
+                            "priceSingleOcc": 116225.36,
+                            "priceExtraBed": "37836.87",
+                            "priceWithoutBed": "29268.44",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 58112.68,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 362.25,
+                            "CEB": 468.3,
+                            "COSTDO": 719.25,
+                            "COSTSO": 1438.5,
+                            "ACEB": 719.25,
+                            "COSTTO": 719.25
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Deluxe": {
+                    "TPId": "39280",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-09",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 63203,
+                            "priceDoubleOcc": "63202.84",
+                            "priceSingleOcc": 126405.68,
+                            "priceExtraBed": "41145.48",
+                            "priceWithoutBed": "31813.51",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 63202.84,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 393.75,
+                            "CEB": 509.25,
+                            "COSTDO": 782.25,
+                            "COSTSO": 1564.5,
+                            "ACEB": 782.25,
+                            "COSTTO": 782.25
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Luxury": {
+                    "TPId": "39281",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-09",
+                            "To": "2022-09-30",
+                            "Currency": 1,
+                            "priceTripleOcc": 94423,
+                            "priceDoubleOcc": "94422.50",
+                            "priceSingleOcc": 188845,
+                            "priceExtraBed": "61506.12",
+                            "priceWithoutBed": "47253.66",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 94422.5,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 584.85,
+                            "CEB": 761.25,
+                            "COSTDO": 1168.65,
+                            "COSTSO": 2337.3,
+                            "ACEB": 1168.65,
+                            "COSTTO": 1168.65
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        }
+    }
+}

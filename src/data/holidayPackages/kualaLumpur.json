@@ -1,0 +1,437 @@
+{
+    "rows": [
+        {
+            "PkgSysId": "81",
+            "Countries": "Malaysia",
+            "CountryIds": "132",
+            "TPId": "38872",
+            "GTXPkgId": "38872",
+            "DisplayIndex": null,
+            "PackageType": "1",
+            "CurrencyType": "INR",
+            "Destinations": "Kuala Lumpur,South East Asia,Malaysia,Orient,Genting Highlands,Batu Pahat,Putrajaya",
+            "DestinationsId": "30568,10289",
+            "des": "Kuala Lumpur | Kuala Lumpur (2N) | Genting Highlands (1N) | Kuala Lumpur",
+            "desSaArr": {
+                "Kuala Lumpur": 2,
+                "Genting Highlands": 1
+            },
+            "myCustomizeDestNights": [
+                {
+                    "cityId": 30568,
+                    "title": "Kuala Lumpur",
+                    "nights": "2N",
+                    "CountryIds": "132"
+                },
+                {
+                    "cityId": 10289,
+                    "title": "Genting Highlands",
+                    "nights": "1N",
+                    "CountryIds": "132"
+                }
+            ],
+            "myCustomizeDestNightsEncoded": "[{\"cityId\":30568,\"title\":\"Kuala Lumpur\",\"nights\":\"2N\",\"CountryIds\":\"132\"},{\"cityId\":10289,\"title\":\"Genting Highlands\",\"nights\":\"1N\",\"CountryIds\":\"132\"}]",
+            "PriceRange": "10001-15000",
+            "Duration": "3",
+            "PackageTypeArr": [
+                "Honeymoon",
+                "Adventure",
+                "Beach",
+                "Family",
+                "Romantic",
+                "Leisure"
+            ],
+            "hotelTypeArr": [
+                {
+                    "type": "Standard"
+                },
+                {
+                    "type": "Deluxe"
+                },
+                {
+                    "type": "Luxury"
+                }
+            ],
+            "inclusionsArr": [
+                "Hotel",
+                "Only Breakfast",
+                "Airport Transfers"
+            ],
+            "package": {
+                "Name": "Gorgeous Malaysia (2N Kuala Lumpur + 1N Genting Highland)",
+                "Tagline1": ""
+            },
+            "ImgThumbnail": "https://globaltravelexchange.com/public/upload/package/gorgeous_malaysia_2n_kuala_lumpur__1n_genting_highl_1659689391.jpg",
+            "ImgThumbnail1": "https://globaltravelexchange.com/public/upload/package/gorgeous_malaysia_2n_kuala_lumpur__1n_genting_highl_1659689391.jpg",
+            "defaultCategoryId": 2,
+            "itineraryArr1": {
+                "Standard": [
+                    {
+                        "hid": 515379,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Metro Hotel Bukit Bintang",
+                        "star": 3,
+                        "city": "Kuala Lumpur",
+                        "CityId": 30568,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515382,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "First World Hotel",
+                        "star": 3,
+                        "city": "Genting Highlands",
+                        "CityId": 10289,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 1
+                    }
+                ],
+                "Deluxe": [
+                    {
+                        "hid": 515380,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Hotel Royal Kuala Lumpur",
+                        "star": 4,
+                        "city": "Kuala Lumpur",
+                        "CityId": 30568,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515392,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Awana Resort",
+                        "star": 4,
+                        "city": "Genting Highlands",
+                        "CityId": 10289,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 1
+                    }
+                ],
+                "Luxury": [
+                    {
+                        "hid": 515381,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Berjaya Times Square",
+                        "star": 5,
+                        "city": "Kuala Lumpur",
+                        "CityId": 30568,
+                        "day": 1,
+                        "orSimilar": 1,
+                        "nights": 2
+                    },
+                    {
+                        "hid": 515392,
+                        "haid": null,
+                        "MEALPLANTYPE": null,
+                        "ROOMTYPE": null,
+                        "hotel": "Awana Resort",
+                        "star": 4,
+                        "city": "Genting Highlands",
+                        "CityId": 10289,
+                        "day": 3,
+                        "orSimilar": 1,
+                        "nights": 1
+                    }
+                ]
+            },
+            "itineraryNewArrayOnlyHotelId": {
+                "Luxury": "{\"haid\":[null,null,null],\"HotelCityId\":[10289,10289,10289],\"night\":[3,3,3],\"MEALPLANTYPE\":[null,null,null],\"ROOMTYPE\":[null,null,null]}"
+            },
+            "Price": 13527,
+            "PriceDis": 13527.91,
+            "defaultStandard": "Standard",
+            "defaultTourType": 1,
+            "tourType": [
+                {
+                    "TourType": 1,
+                    "TourTypeTitle": "Private",
+                    "active": true
+                }
+            ],
+            "deal": null,
+            "mp": 0,
+            "mpArr": {
+                "P": {
+                    "Standard": {
+                        "TPId": "38872",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-05",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 12987,
+                                "priceDoubleOcc": "13411.73",
+                                "priceSingleOcc": 26823.46,
+                                "priceExtraBed": "12138.46",
+                                "priceWithoutBed": "2206.99",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 13411.73,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 27.3,
+                                "CEB": 150.15,
+                                "COSTDO": 165.9,
+                                "COSTSO": 331.8,
+                                "ACEB": 150.15,
+                                "COSTTO": 150.15
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Deluxe": {
+                        "TPId": "38873",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-05",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 15109,
+                                "priceDoubleOcc": "15533.83",
+                                "priceSingleOcc": 31067.66,
+                                "priceExtraBed": "14260.57",
+                                "priceWithoutBed": "2716.30",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 15533.83,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 33.6,
+                                "CEB": 176.4,
+                                "COSTDO": 192.15,
+                                "COSTSO": 384.3,
+                                "ACEB": 176.4,
+                                "COSTTO": 176.4
+                            }
+                        ],
+                        "GroupSize": 2
+                    },
+                    "Luxury": {
+                        "TPId": "38874",
+                        "SFP": true,
+                        "price": [
+                            {
+                                "From": "2022-08-05",
+                                "To": "2022-10-31",
+                                "Currency": 1,
+                                "priceTripleOcc": 16977,
+                                "priceDoubleOcc": "17401.29",
+                                "priceSingleOcc": 34802.58,
+                                "priceExtraBed": "16128.02",
+                                "priceWithoutBed": "3395.37",
+                                "Tax": "Excluded",
+                                "PAX": 2,
+                                "MarkType": "FixedPercent",
+                                "MarkValue": 5,
+                                "ExcludedPercent": "0",
+                                "PricePerPerson": 17401.29,
+                                "TourType": 1,
+                                "TourTypeTitle": "Private",
+                                "DiscountType": 0,
+                                "DiscountVal": 0,
+                                "PC": 2,
+                                "CWOB": 42,
+                                "CEB": 199.5,
+                                "COSTDO": 215.25,
+                                "COSTSO": 430.5,
+                                "ACEB": 199.5,
+                                "COSTTO": 199.5
+                            }
+                        ],
+                        "GroupSize": 2
+                    }
+                }
+            },
+            "CategoryDateArray": [],
+            "GroupSize": 2,
+            "SourcePlaceSysId": 30568,
+            "DestinationPlacesSysId": 30568,
+            "SourcePlaces": "Kuala Lumpur",
+            "DestinationPlaces": "Kuala Lumpur",
+            "Inclusion": "<ul>\r\n\t<li>02 Nights’ accommodation in Kuala Lumpur</li>\r\n\t<li>01 Night accommodation in Genting Highland</li>\r\n\t<li>Daily Buffet Breakfast</li>\r\n\t<li>Transportation in Private A/c Car or Micro Van with an English-speaking chauffeur guide</li>\r\n\t<li>Kuala Lumpur City Tour</li>\r\n\t<li>Batu Caves</li>\r\n\t<li>02 Way Cable Car Rise in Genting</li>\r\n</ul>\r\n",
+            "Exclusions": "<p> </p>\r\n\r\n<ul>\r\n\t<li>Flight Tickets OR Visa is not included in above cost</li>\r\n\t<li>TCS will be applicable extra as per Govt. regulations</li>\r\n\t<li>RT PCR if applicable is not included</li>\r\n\t<li>Any Kind of Travel or Health Insurance is not included in mentioned cost.</li>\r\n\t<li>Guide is not included in above package.</li>\r\n\t<li>All personal expenses like tips, Portage, laundry, telephone calls/fax, alcoholic beverages, camera/video camera fees at monuments, entrances fees, medical expenses, airport departure tax etc.</li>\r\n\t<li>Anything, which is not mentioned under Package Inclusions.</li>\r\n\t<li>Cost incidental to any change in the itinerary/stay on an account of flight cancellation due to bad weather, ill health, and roadblocks and/or any factors beyond control.</li>\r\n\t<li>For any unutilized service no refund will be provided</li>\r\n\t<li>Transportation on Day 05</li>\r\n\t<li>Weekend & PUBLIC HOLIDAY Surcharge in Genting – US$ 25 PER ROOM</li>\r\n\t<li>Entrance fees :</li>\r\n\t<li>Genting Skytropolis (Indoor Theme Park) – US$ 16 per person / Child</li>\r\n\t<li>Genting Skyworld (Outdoor Theme Park) – US$ 38 per person / Child</li>\r\n\t<li>Cable Car Combo + Sky Bridge – US$ 25 per Adult / US$ 19 per Child</li>\r\n\t<li>Glass Bottom Gondola + Express Lane – US$ 28 Per Adult / Child</li>\r\n</ul>\r\n",
+            "finalSightseeingArray": {
+                "1": "Putra Perdana, Putrajaya Government Centre, Putrajaya Lake, Taman Warisan or Agricultural Heritage Park",
+                "2": "Golden Triangle, KL Tower, Kuala Lumpur City Tour, Suria KLCC",
+                "3": "Genting Highlands, Genting skyway",
+                "4": "Batu Caves, Sri Subramanian Swamy Temple, Majestic Lord Murugan Statue"
+            },
+            "IsFixedDeparturePackage": 0,
+            "forEnquiryData": "eyJQa2dTeXNJZCI6IjgxIiwiR1RYUGtnSWQiOiIzODg3MiIsIlRQSWQiOiIzODg3MiIsInBhY2thZ2UiOnsiTmFtZSI6Ikdvcmdlb3VzIE1hbGF5c2lhICgyTiBLdWFsYSBMdW1wdXIgKyAxTiBHZW50aW5nIEhpZ2hsYW5kKSIsIlRhZ2xpbmUxIjoiIn0sIlBhY2thZ2VUeXBlIjoiMSIsImRlZmF1bHRDYXRlZ29yeUlkIjoyLCJkZWZhdWx0VG91clR5cGUiOjEsIm1wIjowLCJDb3VudHJpZXMiOiJNYWxheXNpYSIsIkNvdW50cnlJZHMiOiIxMzIiLCJJc0ZpeGVkRGVwYXJ0dXJlUGFja2FnZSI6MCwiQ2F0ZWdvcnlEYXRlQXJyYXkiOltdLCJteUN1c3RvbWl6ZURlc3ROaWdodHMiOlt7ImNpdHlJZCI6MzA1NjgsInRpdGxlIjoiS3VhbGEgTHVtcHVyIiwibmlnaHRzIjoiMk4iLCJDb3VudHJ5SWRzIjoiMTMyIn0seyJjaXR5SWQiOjEwMjg5LCJ0aXRsZSI6IkdlbnRpbmcgSGlnaGxhbmRzIiwibmlnaHRzIjoiMU4iLCJDb3VudHJ5SWRzIjoiMTMyIn1dLCJEdXJhdGlvbiI6IjMiLCJDdXJyZW5jeVR5cGUiOiJJTlIifQ==",
+            "fixedInventory": [],
+            "fixedInventoryNewDest": "",
+            "IsfixedInventory": 0
+        }
+    ],
+    "filterCat": [
+        "Adventure",
+        "Beach",
+        "Family",
+        "Honeymoon",
+        "Leisure",
+        "Romantic"
+    ],
+    "filterDest": [
+        "Batu Pahat",
+        "Genting Highlands",
+        "Kuala Lumpur",
+        "Malaysia",
+        "Orient",
+        "Putrajaya",
+        "South East Asia"
+    ],
+    "filterNight": [
+        "3"
+    ],
+    "filterPrice": [
+        {
+            "value": "10001-15000",
+            "count": 1
+        }
+    ],
+    "PackagePriceRangeCountArr": {
+        "10001-15000": 1
+    },
+    "fixedInventoryNewDestinations": [],
+    "imgIndex": [
+        1
+    ],
+    "MyMparr": {
+        "81": {
+            "P": {
+                "Standard": {
+                    "TPId": "38872",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-05",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 12987,
+                            "priceDoubleOcc": "13411.73",
+                            "priceSingleOcc": 26823.46,
+                            "priceExtraBed": "12138.46",
+                            "priceWithoutBed": "2206.99",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 13411.73,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 27.3,
+                            "CEB": 150.15,
+                            "COSTDO": 165.9,
+                            "COSTSO": 331.8,
+                            "ACEB": 150.15,
+                            "COSTTO": 150.15
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Deluxe": {
+                    "TPId": "38873",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-05",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 15109,
+                            "priceDoubleOcc": "15533.83",
+                            "priceSingleOcc": 31067.66,
+                            "priceExtraBed": "14260.57",
+                            "priceWithoutBed": "2716.30",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 15533.83,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 33.6,
+                            "CEB": 176.4,
+                            "COSTDO": 192.15,
+                            "COSTSO": 384.3,
+                            "ACEB": 176.4,
+                            "COSTTO": 176.4
+                        }
+                    ],
+                    "GroupSize": 2
+                },
+                "Luxury": {
+                    "TPId": "38874",
+                    "SFP": true,
+                    "price": [
+                        {
+                            "From": "2022-08-05",
+                            "To": "2022-10-31",
+                            "Currency": 1,
+                            "priceTripleOcc": 16977,
+                            "priceDoubleOcc": "17401.29",
+                            "priceSingleOcc": 34802.58,
+                            "priceExtraBed": "16128.02",
+                            "priceWithoutBed": "3395.37",
+                            "Tax": "Excluded",
+                            "PAX": 2,
+                            "MarkType": "FixedPercent",
+                            "MarkValue": 5,
+                            "ExcludedPercent": "0",
+                            "PricePerPerson": 17401.29,
+                            "TourType": 1,
+                            "TourTypeTitle": "Private",
+                            "DiscountType": 0,
+                            "DiscountVal": 0,
+                            "PC": 2,
+                            "CWOB": 42,
+                            "CEB": 199.5,
+                            "COSTDO": 215.25,
+                            "COSTSO": 430.5,
+                            "ACEB": 199.5,
+                            "COSTTO": 199.5
+                        }
+                    ],
+                    "GroupSize": 2
+                }
+            }
+        }
+    }
+}

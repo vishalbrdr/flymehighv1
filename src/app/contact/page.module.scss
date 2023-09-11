@@ -1,0 +1,74 @@
+.contact {
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)),
+    url("/images/World Map.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  &Inner {
+    padding-block: 4rem;
+    min-height: 100vh;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h1 {
+      font-family: var(--font-playfair);
+      font-weight: bold;
+      font-size: 3rem;
+    }
+    form {
+      display: grid;
+      gap: 1rem;
+      margin-top: 1rem;
+      .formGroup {
+        display: grid;
+        align-items: start;
+        gap: 0.5rem;
+      }
+      input,
+      textarea {
+        font-size: 1.5rem;
+        /* From https://css.glass */
+        background: #ffffff33;
+        border-radius: 5px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        outline-color: white;
+        color: white;
+        max-width: 500px;
+        width: 50vw;
+        min-width: 500px;
+        @media screen and (max-width: 500px) {
+          width: 60vw;
+          min-width: 300px;
+        }
+      }
+      label {
+        text-transform: capitalize;
+      }
+      input {
+        padding: 0.6rem 1rem;
+      }
+      textarea {
+        height: 10rem;
+        padding: 0.5rem;
+      }
+    }
+    button {
+      padding-block: 1rem;
+      font-size: 1rem;
+      text-transform: capitalize;
+      border-radius: 0.5rem;
+      background-color: var(--color-green);
+      color: white;
+      transition: all 150ms ease-in-out;
+      cursor: pointer;
+      &:hover {
+        background: whitesmoke;
+        color: var(--color-green);
+      }
+    }
+  }
+}

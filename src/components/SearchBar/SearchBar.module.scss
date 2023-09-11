@@ -1,0 +1,146 @@
+$border-radius: 0.4rem;
+$font-size: 1.4rem;
+.container {
+  width: 100%;
+
+  align-self: start;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  @media screen and (max-width: 500px) {
+    flex-direction: column;
+  }
+}
+
+@mixin glass {
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(7.3px);
+  -webkit-backdrop-filter: blur(7.3px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.input {
+  position: relative;
+  z-index: 105;
+
+  input {
+    background: none;
+    border: none;
+    font-size: $font-size;
+    border-radius: $border-radius;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 0.7rem 0.8rem;
+    outline: none;
+    width: 30vw;
+    max-width: 500px;
+    min-width: 300px;
+    color: white;
+    @include glass();
+    @media screen and (max-width: 500px) {
+      border-radius: $border-radius;
+    }
+    &:focus {
+      border: 1px solid rgba(255, 255, 255, 0.68);
+    }
+    &::placeholder {
+      color: rgba(255, 255, 255, 0.7);
+      font-size: 1.1rem;
+      text-transform: lowercase;
+    }
+  }
+}
+.btn {
+  z-index: 101;
+  @media screen and (max-width: 500px) {
+    width: 30vw;
+    max-width: 500px;
+    min-width: 300px;
+  }
+  button {
+    border-radius: $border-radius;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    font-size: 1.4rem;
+    background-color: teal;
+    color: white;
+    padding: 0.7rem 1.5rem;
+    text-transform: capitalize;
+
+    @media screen and (max-width: 500px) {
+      width: 100%;
+      border-radius: $border-radius;
+      margin-top: 1rem;
+      font-size: 1.1rem;
+      padding: 0.7rem 1.2rem;
+    }
+
+    background: rgba(0, 255, 232, 0.6);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7.3px);
+    -webkit-backdrop-filter: blur(7.3px);
+    border: 1px solid rgba(0, 255, 232, 0.18);
+    transition: background 100ms ease-in-out;
+
+    &:hover,
+    &:focus {
+      background: rgba(0, 255, 232, 0.7);
+      cursor: pointer;
+    }
+  }
+}
+.dropDown {
+  position: absolute;
+  width: 100%;
+  border-radius: $border-radius;
+  top: 110%;
+  font-size: 1.2rem;
+
+  @include glass();
+
+  transform: scaleY(0);
+  transform-origin: top;
+  transition: transform 150ms ease-in-out;
+
+  &.open {
+    transform: scaleY(1);
+  }
+  ul {
+    display: grid;
+    max-height: 300px;
+    overflow-y: scroll;
+    li {
+      a {
+        display: inline-block;
+        width: 100%;
+        padding: 0.5rem 0.7rem;
+        &::before {
+          width: 0;
+        }
+      }
+      &:hover {
+        background: rgba(255, 255, 255, 0.2);
+        cursor: pointer;
+      }
+    }
+  }
+}
+.backdrop {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  // background-color: rgba(0, 0, 0, 0); /* Black background with opacity */
+  z-index: 100; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+  &.open {
+    display: block;
+  }
+}
