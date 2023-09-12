@@ -31,7 +31,7 @@ export default function Footer() {
           <div className={styles.item}>
             <a href="mailto:contact@flymehigh.in">
               <AiOutlineMail />
-              <span>contact@flymehigh.in</span>
+              <span className={styles.email}>contact@flymehigh.in</span>
             </a>
             <a href="tel:+918926104050">
               <BsTelephone />

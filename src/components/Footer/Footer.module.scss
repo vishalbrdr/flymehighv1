@@ -48,7 +48,9 @@
       display: flex;
       align-items: flex-start;
       gap: 0.5rem;
-
+      .email {
+        text-transform: lowercase;
+      }
       &::before {
         background-color: var(--color-green);
       }
