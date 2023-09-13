@@ -72,7 +72,7 @@ export default function Page() {
                 <div className={styles.item}>
                   <FaSmile />
                   <span>Satisfied Clients</span>
-                  <strong>500+</strong>
+                  <strong>3500+</strong>
                 </div>
               </div>
               <div className={styles.row2}>
