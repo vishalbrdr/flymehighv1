@@ -25,7 +25,9 @@ export default function Page() {
         console.log("done");
         setIsLoading("subscribed!");
         setEmail("");
-      });
+      }).catch((e)=>{
+        setIsLoading("something went wrong!")
+      })
     // console.log(res);
   }
   return (
@@ -34,7 +36,7 @@ export default function Page() {
         <div className={styles.mainInner}>
           <Navbar />
           <h1 className={styles.heading}>
-            Unveil the World&apos;s Wonders with <span>Fly Me High</span>
+            Unveil the World&apos;s Wonders with <span>Travelay</span>
           </h1>
           <SearchBar />
         </div>

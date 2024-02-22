@@ -23,7 +23,6 @@ export default function Page() {
         contact,
       })
       .then(() => {
-        console.log("done");
         setIsLoading("message sent!");
         setContact({
           name: "",

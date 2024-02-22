@@ -17,9 +17,9 @@ export default function Navbar() {
             src={"/images/logo.png"}
             width={40}
             height={40}
-            alt="FlyMeHigh Logo"
+            alt="travelay Logo"
           />
-          <strong>flymehigh</strong>
+          <strong>travelay</strong>
         </Link>
       </div>
       <div className={styles.menu}>

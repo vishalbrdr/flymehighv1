@@ -24,7 +24,7 @@ export default function about() {
           <h2> Booking and Reservations</h2>
           <p>
             All bookings made through our website are subject to availability
-            and confirmation by FlyMeHigh.
+            and confirmation by travelay.
           </p>
           <p>
             The prices displayed on our website are subject to change without
@@ -43,9 +43,9 @@ export default function about() {
             destination(s).
           </p>
           <p>
-            FlyMeHigh will provide information on visa and health requirements
-            to the best of its knowledge, but travelers should verify with
-            relevant authorities.
+            travelay will provide information on visa and health requirements to
+            the best of its knowledge, but travelers should verify with relevant
+            authorities.
           </p>
         </div>
         <div className={styles.points}>
@@ -59,7 +59,7 @@ export default function about() {
         <div className={styles.points}>
           <h2>Changes and Cancellations</h2>
           <p>
-            FlyMeHigh reserves the right to modify or cancel bookings due to
+            travelay reserves the right to modify or cancel bookings due to
             unforeseen circumstances or events beyond our control. We will make
             reasonable efforts to notify affected customers promptly.
           </p>
@@ -67,12 +67,12 @@ export default function about() {
         <div className={styles.points}>
           <h2>Liability</h2>
           <p>
-            FlyMeHigh is not liable for any loss, injury, damage, or delay
+            travelay is not liable for any loss, injury, damage, or delay
             incurred by travelers during their trip. Travelers participate in
             activities and use services at their own risk.
           </p>
           <p>
-            FlyMeHigh is not responsible for third-party services, such as
+            travelay is not responsible for third-party services, such as
             airlines, hotels, or tour operators. The terms and conditions of
             these providers apply.
           </p>
@@ -105,7 +105,7 @@ export default function about() {
         <div className={styles.points}>
           <h2>Changes to Terms and Conditions</h2>
           <p>
-            FlyMeHigh reserves the right to update or modify these terms and
+            travelay reserves the right to update or modify these terms and
             conditions at any time. Users are encouraged to review this page
             periodically for changes.
           </p>

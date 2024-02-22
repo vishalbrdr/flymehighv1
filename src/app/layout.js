@@ -1,17 +1,15 @@
 import "reset-css";
 import "./globals.scss";
-import Navbar from "@/components/Navbar/Navbar";
-import Head from "next/head";
-import { Lato, Viaoda_Libre } from "next/font/google";
+import { Roboto, Varela } from "next/font/google";
 
-const lato = Lato({
+const lato = Roboto({
   subsets: ["latin"],
   variable: "--font-lato",
   display: "swap",
   weight: ["100", "300", "400", "700", "900"],
 });
 
-const viaodaLibre = Viaoda_Libre({
+const viaodaLibre = Varela({
   subsets: ["latin"],
   variable: "--font-playfair",
   display: "swap",
@@ -19,7 +17,7 @@ const viaodaLibre = Viaoda_Libre({
 });
 
 export const metadata = {
-  title: "FlyMeHigh",
+  title: "travelay",
   description: "Your ultimate travel companion.",
 };
 

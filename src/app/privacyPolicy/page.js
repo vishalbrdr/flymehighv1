@@ -15,8 +15,8 @@ export default function about() {
         <div className={styles.points}>
           <h2>Introduction</h2>
           <p>
-            Welcome to FlyMeHigh! We are committed to protecting your privacy
-            and ensuring the security of your personal information. This Privacy
+            Welcome to travelay! We are committed to protecting your privacy and
+            ensuring the security of your personal information. This Privacy
             Policy explains how we collect, use, disclose, and safeguard your
             personal data when you visit our website, use our services, or
             interact with us.

@@ -23,39 +23,35 @@ export default function Footer() {
                 src={"/images/logo.png"}
                 width={40}
                 height={40}
-                alt="FlyMeHigh Logo"
+                alt="travelay Logo"
               />
-              <strong>flymehigh</strong>
+              <strong>travelay</strong>
             </Link>
           </div>
           <div className={styles.item}>
-            <a href="mailto:contact@flymehigh.in">
+            <a href="mailto:travelay000@gmail.com">
               <AiOutlineMail />
-              <span className={styles.email}>contact@flymehigh.in</span>
+              <span className={styles.email}>travelay000@gmail.com</span>
             </a>
-            <a href="tel:+918926104050">
+            <a href="tel:+918884903207">
               <BsTelephone />
-              <span>+91 8926 104 050</span>
-            </a>
-            <a href="tel:+918147853017">
-              <BsTelephone />
-              <span>+91 8147 853 017</span>
+              <span>+91 88849 03207</span>
             </a>
           </div>
         </div>
         <div className={styles.col}>
           <h3>services</h3>
           <div className={styles.item}>
-            <a target="_blank" href="https://wa.link/ywuznr">
+            <a target="_blank" href="https://wa.link/iyutgd">
               <AiOutlineWhatsApp /> <span>Holiday Packages</span>
             </a>
-            <a target="_blank" href="https://wa.link/l8j4xd">
+            <a target="_blank" href="https://wa.link/wenuix">
               <AiOutlineWhatsApp /> <span>Flights</span>
             </a>
-            <a target="_blank" href="https://wa.link/g382ep">
+            <a target="_blank" href="https://wa.link/v4wpb5">
               <AiOutlineWhatsApp /> <span>Hotels</span>
             </a>
-            <a target="_blank" href="https://wa.link/7jxshs">
+            <a target="_blank" href="https://wa.link/xy4zg9">
               <AiOutlineWhatsApp /> <span>Visa</span>
             </a>
           </div>
@@ -70,13 +66,13 @@ export default function Footer() {
             <Link href="/privacyPolicy">Privacy Policy</Link>
           </div>
         </div>
-        <div className={styles.col}>
+        {/* <div className={styles.col}>
           <h3>socials</h3>
           <div className={styles.item}>
             <a
               className="instagram"
               target="_blank"
-              href="https://instagram.com/flymehigh.co"
+              href="https://instagram.com/travelay.co"
             >
               <AiFillInstagram /> <span>instagram</span>
             </a>
@@ -90,7 +86,7 @@ export default function Footer() {
             <a
               className="linkedin"
               target="_blank"
-              href="https://www.linkedin.com/company/flymehigh-travels/"
+              href="https://www.linkedin.com/company/travelay-travels/"
             >
               <AiFillLinkedin /> <span>linkedIn</span>
             </a>
@@ -102,7 +98,7 @@ export default function Footer() {
               <AiOutlineWhatsApp /> <span>whatsApp</span>
             </a>
           </div>
-        </div>
+        </div> */}
       </div>
     </footer>
   );
