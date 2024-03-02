@@ -11,11 +11,11 @@ export default function about() {
         </div>
       </div>
       <div className={styles.aboutInner}>
-        <h2>Welcome to Fly Me High - Your Passport to Exceptional Journeys!</h2>
+        <h2>Welcome to Travelay - Your Passport to Exceptional Journeys!</h2>
         <div className={styles.points}>
           <h2>Our Mission</h2>
           <p>
-            At Fly Me High, our mission is clear: to be the leading and most
+            At Travelay, our mission is clear: to be the leading and most
             trustworthy travel management company that sets the standard for
             professionalism, reliability, and transparency for our valued
             customers. With a wealth of experience in global networking travel
@@ -39,7 +39,7 @@ export default function about() {
           <h2>Your Dreams, Our Expertises</h2>
           <p>
             With an extensive network of trusted partners spanning the globe,
-            Fly Me High can make your travel dreams a reality. Whether you yearn
+            Travelay can make your travel dreams a reality. Whether you yearn
             for the tranquility of a tropical beach, the vibrant energy of a
             bustling city, or the adrenaline rush of a thrilling adventure,
             we&apos;ll take care of all the arrangements.
@@ -63,13 +63,13 @@ export default function about() {
             world.
           </p>
           <p>
-            At Fly Me High, we don&apos;t just book trips; we create
+            At Travelay, we don&apos;t just book trips; we create
             experiences. With us, your journey is not just a destination;
             it&apos;s a story waiting to be written. So, pack your bags, and
             let&apos;s soar to new heights together! ✈
           </p>
           <p>
-            Thank you for choosing Fly Me High as your trusted travel partner.
+            Thank you for choosing Travelay as your trusted travel partner.
             Your adventure begins now.
           </p>
         </div>
