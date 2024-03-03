@@ -19,13 +19,13 @@ export default function Footer() {
         <div className={styles.col}>
           <div className="logo">
             <Link href={"/"}>
-              {/* <Image
-                src={"/images/logo.png"}
-                width={40}
-                height={40}
+              <Image
+                src={"/images/travelay.svg"}
+                width={140}
+                height={80}
                 alt="travelay Logo"
-              /> */}
-              <strong>travelay</strong>
+              />
+              {/* <strong>travelay</strong> */}
             </Link>
           </div>
           <div className={styles.item}>

@@ -4,31 +4,30 @@
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
-  margin-inline: 0.5rem;
-  padding: 0.6rem 1rem;
 }
 
 .Header {
   //   background-color: rgba(0, 0, 0, 0.3);
   /* From https://css.glass */
-  @include glass();
+  // @include glass();
   padding: 1rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
   height: min-content;
-  @media screen and (max-width: 500px) {
-    background-color: rgba(255, 255, 255, 0.8);
-  }
+  // background-color: rgb(255, 255, 255);
+  padding: 0.6rem 1rem;
 
   position: relative;
   nav {
     @media screen and (max-width: 500px) {
-      @include glass();
+      // @include glass();
       position: absolute;
       top: 110%;
       background: rgba(255, 255, 255);
       width: 100%;
+      margin-inline: 0.5rem;
+      padding: 0.6rem 1rem;
       left: 0;
       margin: 0;
       border-radius: 0.6rem;
@@ -52,8 +51,9 @@
         }
         a {
           font-family: var(--font-lato);
+          color: rgba(0, 0, 0, 0.797);
           transition: color 100ms ease;
-
+          
           @media screen and (max-width: 500px) {
             color: gray;
             text-align: right;

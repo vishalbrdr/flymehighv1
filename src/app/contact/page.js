@@ -35,7 +35,6 @@ export default function Page() {
     <>
       <main className={styles.contact} id="contact">
         <div className="container">
-          <Navbar />
           <div className={styles.contactInner}>
             <h1>Contact Us</h1>
             <form onSubmit={handleSubmit}>

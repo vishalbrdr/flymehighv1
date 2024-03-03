@@ -34,7 +34,6 @@ export default function Page() {
     <main className={styles.main}>
       <div className="container">
         <div className={styles.mainInner}>
-          <Navbar />
           <h1 className={styles.heading}>
             Unveil the World&apos;s Wonders with <span>Travelay</span>
           </h1>

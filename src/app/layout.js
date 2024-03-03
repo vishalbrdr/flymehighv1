@@ -1,6 +1,7 @@
 import "reset-css";
 import "./globals.scss";
 import { Roboto, Varela } from "next/font/google";
+import Navbar from "@/components/Navbar/Navbar";
 
 const lato = Roboto({
   subsets: ["latin"],
@@ -25,6 +26,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${lato.variable} ${viaodaLibre.variable}`}>
       <body>
+        <Navbar />
         <div>{children}</div>
       </body>
     </html>

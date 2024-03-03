@@ -13,13 +13,13 @@ export default function Navbar() {
     <header className={styles.Header}>
       <div className={"logo"}>
         <Link href={"/"}>
-          {/* <Image
-            src={"/images/logo.png"}
-            width={40}
-            height={40}
+          <Image
+            src={"/images/travelay.svg"}
+            width={150}
+            height={50}
             alt="travelay Logo"
-          /> */}
-          <strong>travelay</strong>
+          />
+          {/* <strong>travelay</strong> */}
         </Link>
       </div>
       <div className={styles.menu}>

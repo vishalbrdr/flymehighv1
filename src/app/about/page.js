@@ -6,7 +6,6 @@ export default function about() {
     <main className={styles.about} id="contact">
       <div className={styles.header}>
         <div className="container">
-          <Navbar />
           <h1>About Us</h1>
         </div>
       </div>
