@@ -32,7 +32,7 @@ export default function Card({ data, dest }) {
             />
           </div>
         </div>
-        <div className={styles.row}>{Name.split("(")[0]}</div>
+        <h3 className={styles.row}>{Name.split("(")[0]}</h3>
         <div className={styles.row}>{Duration} Nights</div>
         <div className={styles.row}>₹{pricePerPerson}</div>
       </div>

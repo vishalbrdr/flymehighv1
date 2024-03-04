@@ -1,6 +1,5 @@
 .contact {
-  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)),
-    url("/images/World Map.svg");
+  background-image: linear-gradient(var(--color-orange), rgba(0, 0, 0, 1));
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -61,13 +60,13 @@
       font-size: 1rem;
       text-transform: capitalize;
       border-radius: 0.5rem;
-      background-color: var(--color-green);
+      background-color: var(--color-orange);
       color: white;
       transition: all 150ms ease-in-out;
       cursor: pointer;
       &:hover {
-        background: whitesmoke;
-        color: var(--color-green);
+        background: var(--color-orange-light);
+        color: white !important;
       }
     }
   }

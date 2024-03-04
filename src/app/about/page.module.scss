@@ -2,15 +2,18 @@
   background-color: whitesmoke;
 }
 .header {
-  background: var(--color-green);
+  background: var(--color-orange-light);
+  height: 10rem;
   & > div {
     display: grid;
     gap: 2rem;
     h1 {
       text-align: center;
-      font-size: 2rem;
+      font-size: 4rem;
       font-family: var(--font-playfair);
       font-weight: bold;
+      display: grid;
+      place-items: center;
     }
   }
 }
@@ -42,7 +45,7 @@
       font-size: 1.6rem;
       text-align: left;
 
-      color: var(--color-blue);
+      color: var(--color-orange);
       font-family: var(--font-playfair);
     }
     p {

@@ -6,9 +6,11 @@
   // --font-playfair: "Viaoda Libre", serif;
   --z-backdrop: 100;
   --color-green: #0ebe98;
-  --color-blue: #0d75bf;
+  --color-blue: #0061af;
   --color-dark-blue: #0d2b3e;
-  --color-light-blue: #add8e6;
+  --color-light-blue: #bdd8f1;
+  --color-orange: #f7941d;
+  --color-orange-light: #eea961;
 }
 * {
   box-sizing: border-box;
@@ -114,15 +116,15 @@ body {
   padding: 0.6rem 1rem;
   font-weight: 600;
   border-radius: 10rem;
-  background-color: var(--color-green);
+  background-color: var(--color-orange);
   color: white !important;
-  outline: solid var(--color-green);
+  outline: solid var(--color-orange);
   &::before {
     width: 0;
   }
   &:hover {
     background-color: white;
-    color: var(--color-green) !important;
+    color: var(--color-orange) !important;
   }
 }
 .logo {
@@ -131,6 +133,7 @@ body {
     align-items: center;
     gap: 0.3rem;
     letter-spacing: 0.5px;
+
     img {
       filter: drop-shadow(0 0 0.01rem white);
       @media screen and (max-width: 500px) {

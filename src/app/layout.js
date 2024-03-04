@@ -1,16 +1,16 @@
 import "reset-css";
 import "./globals.scss";
-import { Roboto, Varela } from "next/font/google";
+import { Sono, Source_Sans_3 } from "next/font/google";
 import Navbar from "@/components/Navbar/Navbar";
 
-const lato = Roboto({
+const lato = Sono({
   subsets: ["latin"],
   variable: "--font-lato",
   display: "swap",
-  weight: ["100", "300", "400", "700", "900"],
+  weight: ["200", "300", "400", "700"],
 });
 
-const viaodaLibre = Varela({
+const viaodaLibre = Source_Sans_3({
   subsets: ["latin"],
   variable: "--font-playfair",
   display: "swap",

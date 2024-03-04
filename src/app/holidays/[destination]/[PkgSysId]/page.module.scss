@@ -1,6 +1,7 @@
 .bg {
-  background-color: var(--color-green);
+  background-color: var(--color-orange-light);
   position: relative;
+  padding-block: 4rem;
 }
 .header {
   h1 {
@@ -41,7 +42,7 @@
   button {
     margin-top: 2rem;
     margin-left: 3rem;
-    background-color: var(--color-green);
+    background-color: var(--color-orange);
     color: white;
     font-size: 1rem;
     padding: 1rem 1.5rem;
@@ -61,7 +62,14 @@
   h2 {
     font-size: 1.4rem;
     align-self: flex-start;
-    font-family: var(--font-lato);
+    font-family: var(--font-playfair);
+    font-weight: bold;
+    color: var(--color-orange);
+  }
+  strong {
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: var(--font-playfair);
   }
   ul {
     display: grid;

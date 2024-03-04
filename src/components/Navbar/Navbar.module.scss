@@ -15,7 +15,6 @@
   align-items: center;
   justify-content: space-between;
   height: min-content;
-  // background-color: rgb(255, 255, 255);
   padding: 0.6rem 1rem;
 
   position: relative;
@@ -51,9 +50,12 @@
         }
         a {
           font-family: var(--font-lato);
-          color: rgba(0, 0, 0, 0.797);
+          color: rgba(0, 0, 0, 0.8);
           transition: color 100ms ease;
-          
+          &:hover {
+            color: var(--color-orange);
+          }
+
           @media screen and (max-width: 500px) {
             color: gray;
             text-align: right;
@@ -67,7 +69,6 @@
 .menu {
   font-size: 2rem;
   display: none;
-  color: gray;
   cursor: pointer;
 
   input {

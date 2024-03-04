@@ -27,7 +27,7 @@
   font-family: var(--font-playfair);
   text-align: center;
   align-self: start;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 1);
   font-weight: 800;
   @media screen and (max-width: 500px) {
     font-size: 2.8rem;
@@ -170,7 +170,6 @@
   z-index: 10;
   display: grid;
   padding-block: 5rem;
-  background-color: var(--color-light-blue);
   .destinationHeader {
     display: flex;
     align-items: center;
@@ -180,18 +179,20 @@
       font-size: 3rem;
       font-family: var(--font-playfair) !important;
       font-weight: bold;
-      color: var(--color-blue);
+      color: var(--color-orange);
+      text-shadow: 2px 2px var(--color-dark-blue);
     }
   }
   .destinationMain {
     margin-top: 3rem;
+    padding-inline: 5rem;
     display: flex;
     flex-wrap: wrap;
-    gap: 4rem;
+    // gap: 4rem;
     align-items: center;
     justify-content: center;
     justify-items: center;
-    @media screen and (max-width: 500px) {
+    @media screen and (max-width: 750px) {
       gap: 1rem;
     }
     a::before {
@@ -199,15 +200,15 @@
     }
     a {
       position: relative;
-      border-radius: 16px;
+      // border-radius: 16px;
       overflow: hidden;
-      box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
-        rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+      // box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+      //   rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
       transition: transform 200ms ease-in-out;
-      outline: solid white;
+      // outline: solid white;
       &:hover {
         transform: translateY(-10px);
-        box-shadow: none;
+        text-shadow: 2px 2px black !important;
       }
       &::after {
         content: "";
@@ -245,11 +246,19 @@
         font-size: 2rem;
         font-family: var(--font-playfair);
         text-align: center;
+        color: transparent;
         font-weight: bold;
         text-transform: capitalize;
-        @media screen and (max-width: 500px) {
+        transition: color 200ms ease;
+        @media screen and (max-width: 750px) {
           font-size: 1.3rem;
+          color: white;
+          text-shadow: 2px 2px var(--color-dark-blue);
         }
+      }
+      &:hover .destName {
+        color: white;
+        text-shadow: 2px 2px var(--color-dark-blue);
       }
     }
     // grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -258,7 +267,7 @@
     height: 17rem;
     width: 17rem;
     position: "relative";
-    @media screen and (max-width: 500px) {
+    @media screen and (max-width: 750px) {
       height: 5rem;
     }
     img {
@@ -268,11 +277,8 @@
 }
 .newsletter {
   text-align: center;
-  background-image: linear-gradient(
-    to bottom right,
-    var(--color-green),
-    var(--color-blue)
-  );
+  background-color: #fbab7e;
+  background-image: linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
   padding-block: 5rem 0;
   & > div {
     display: grid;
@@ -282,6 +288,8 @@
   h2 {
     font-size: 3rem;
     font-weight: bold;
+    text-shadow: 2px 2px var(--color-dark-blue);
+
     font-family: var(--font-playfair);
     @media screen and (max-width: 500px) {
       font-size: 2rem;
@@ -292,6 +300,7 @@
     margin-top: 1rem;
     width: 50vw;
     min-width: 350px;
+    color: rgba(0, 0, 0, 0.728);
     @media screen and (max-width: 500px) {
       min-width: none;
     }
@@ -338,19 +347,19 @@
       text-transform: capitalize;
 
       border-radius: 0.5rem;
-      background: rgba(0, 255, 232, 0.6);
+      background: var(--color-orange);
       box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
       backdrop-filter: blur(7.3px);
       -webkit-backdrop-filter: blur(7.3px);
-      border: 1px solid rgba(0, 255, 232, 0.18);
-      transition: background 100ms ease-in-out;
+      border: 1px solid var(--color-orange);
+      transition: background-color 100ms ease-in-out;
       @media screen and (max-width: 500px) {
         font-size: 1rem;
         padding: 0.8rem 1rem;
       }
       &:hover,
       &:focus {
-        background: rgba(0, 255, 232, 0.7);
+        background: var(--color-orange-light);
         cursor: pointer;
       }
     }

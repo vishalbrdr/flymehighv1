@@ -20,6 +20,9 @@
     overflow: hidden;
     height: 1.4rem;
   }
+  h3 {
+    font-family: var(--font-playfair);
+  }
   transition: all 200ms ease;
   &:hover {
     transform: translateY(-1rem);

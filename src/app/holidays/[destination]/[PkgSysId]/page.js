@@ -39,7 +39,6 @@ export default function Page({ params }) {
         <div className={styles.bg}>
           <div className="container">
             <div className={styles.header}>
-              <Navbar />
               <h1>{camelCaseToWords(Name)}</h1>
             </div>
           </div>
