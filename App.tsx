@@ -1,4 +1,4 @@
-import React, {Suspense} from 'react';
+import React from 'react';
 import {ActivityIndicator, FlatList, Text, View} from 'react-native';
 import {useFetch} from './hooks/useFetch';
 
